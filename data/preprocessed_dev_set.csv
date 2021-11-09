@@ -1,0 +1,772 @@
+Sentence,Aspect,Polarity
+mà không biết phải nhân_viên cũ hay mới nữa nhưng cảm_giác thân_thiện hơn .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+nay đi uống mới biết giá_thành hơi cao nhưng thật_sự đi_đôi với chất_lượng .,"['RESTAURANT#PRICES', 'RESTAURANT#GENERAL']","[{'RESTAURANT#PRICES': 'negative'}, {'RESTAURANT#GENERAL': 'positive'}]"
+"ngoài cô quản_lý ra thì nhân_viên phục_vụ không được chuyên_nghiệp và ưa_nhìn , cứ lọng cọng khi gọi món , ra món chậm , không có tác_phong dịch_vụ .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"sốt ăn kèm mình chọn sốt vang và sốt a , sốt vang ăn ngon còn sốt a vị kì kì chua ơi_là chua .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'neutral'}, {'FOOD#QUALITY': 'neutral'}]"
+"gân trong món gân kiệu không quá mềm , cũng không quá dai , ăn rất vừa_phải và dễ_chịu .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"trang_trí trong quán , bàn_ghế cũng đẹp luôn .","['AMBIENCE#GENERAL', 'RESTAURANT#MISCELLANEOUS']","[{'AMBIENCE#GENERAL': 'positive'}, {'RESTAURANT#MISCELLANEOUS': 'positive'}]"
+"gọi thêm bánh trứng , bánh trứng bên này là ngon xuất_sắc rồi , phần trứng hấp mềm tan , vỏ bánh xốp giòn lớp đường nâu bên trên ngon_ngọt , bánh tan chảy trong miệng siêu hấp_dẫn .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+bánh toast ăn rất lạ_miệng và ngon nữa .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+hãy ghé thử nhen các bạn .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"nhân_viên phục_vụ tốt , món ra nhanh , nhạc hay với view lên_đèn đẹp .","['RESTAURANT#MISCELLANEOUS', 'SERVICE#GENERAL', 'AMBIENCE#GENERAL']","[{'RESTAURANT#MISCELLANEOUS': 'positive'}, {'SERVICE#GENERAL': 'positive'}, {'AMBIENCE#GENERAL': 'positive'}]"
+vị_trí quán nằm ở số cũ .,['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'neutral'}]
+"quầy tráng_miệng ngon , trái_cây ko tươi lắm , bánh ăn cũng đc , thích sương sa hột é .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+phải chờ lấy bánh khoảng ' .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+vị_trí rất dễ tìm .,['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'positive'}]
+bánh đập làm_ăn ngon .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"ở đây mình thích nhất là bánh cuộn trà xanh , bánh đậm vị đậm mùi trà xanh , kem bên trong ăn ngậy , hợp vs cốt bánh .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"món ăn ngon , view siêu đẹp , không_gian thoải_mái .","['FOOD#QUALITY', 'AMBIENCE#GENERAL']","[{'FOOD#QUALITY': 'positive'}, {'AMBIENCE#GENERAL': 'positive'}]"
+so với sự nổi_tiếng mình đã mong chất_lượng nước uống ngon hơn nhiều nên khá thất_vọng .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'negative'}]
+"nhưng gần đây ngày mình uống trà xanh gongcha , milkfoam cực tỡm , kiểu béo mà cảm_thấy chất_béo đọng trên vòm họng ấy .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'negative'}]
+về các món ăn thì ở đây khá ổn nhân_viên cũng nhiệt_tình và dễ_thương giá chấp nhân được .,"['SERVICE#GENERAL', 'FOOD#QUALITY', 'RESTAURANT#PRICES']","[{'SERVICE#GENERAL': 'positive'}, {'FOOD#QUALITY': 'positive'}, {'RESTAURANT#PRICES': 'neutral'}]"
+toast ngon béo thom phomai lam vừa đủ cho ng có sức ăn vừa_phải .,"['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+"có loại đế để bạn lựa_chọn , mình thấy đế new york là vừa ăn nhất , không quá dày dễ ngán cũng không quá mỏng như bánh_tráng nướng .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"nước bạn mình gọi cafe kiểu ý gì đó , nói_chung là chán .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'negative'}]
+"trong quá_trình ăn , các em staff này đảo đồ , thêm đồ cũng nhanh_nhẹn .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+bánh_mì hội_an chiếc .,['FOOD#PRICES'],[{'FOOD#PRICES': 'neutral'}]
+quán chưa bao_giờ quá_tải như kfc hay lotteria nếu không muốn nói là khá vắng .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'neutral'}]
+"vị cà_phê rất nhạt , không ngọt lắm và béo .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'negative'}]
+mình có uống thử sữa dê đóng_hộp nhưng uống không được vì quá hôi .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'negative'}]
+"món chính chủ_yếu là vài loại hải_sản như hào nướng phomai , tôm nướng sate , sò lụa xào tỏi , ốc bưu hấp sả ớt .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+phải đi thử ngay vị mới macadamia cocoa cappuchino thì thấy ko dc ngon lắm .,"['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'negative'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+đợt này mình mua voucher hotdeal nên cũng giảm được kha_khá .,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+thích nhất là món khô gà .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+hồng trà làm đúng vị .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"kem mặn khá ngon , đặc vừa , ko bị tan , cũng một lượng khá ổn nữa .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+dành cho ai muốn trải_nghiệm cảm_giác uống trà quý_tộc .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"không_gian k rộng lắm , nhưng ngồi thoải_mái , thoáng .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'neutral'}]
+món xôi nấm cũng không còn ngon như trước .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+"mình ăn mì ramen như trong hình gồm trứng luộc lòng_đào , rong biển , nấm đông cô tươi và thịt ba chỉ kho gừng .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+chắc hơi lạt so với khẩu_vị bình_thường nhưng với mình thì vừa .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'neutral'}]
+"mình uống trà sữa nóng , thể_loại này chỉ có mỗi size s thôi , giá là k ly .","['DRINKS#PRICES', 'DRINKS#STYLE&OPTIONS']","[{'DRINKS#PRICES': 'neutral'}, {'DRINKS#STYLE&OPTIONS': 'neutral'}]"
+nhìn từ ngoài vào không ai nghĩ đây là quán coffe vì có rất nhiều hoa .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+không_gian quán cũng đẹp sang_trọng .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+nước khá nhiều .,['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'positive'}]
+mình đến quán vào tầm chiều nhưng đã rất đông mấy hôm đến vào tối thì phải không còn chỗ ngồi .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"giá_cả , chất_lượng trà sữa ô long siêu ngon , hồi trước mình uống đậm vị trà quá chớ bây_giờ ngon hơn hẳn rồi ý , thơm nữa , nói_chung bị ghiền .","['DRINKS#QUALITY', 'DRINKS#PRICES']","[{'DRINKS#QUALITY': 'positive'}, {'DRINKS#PRICES': 'neutral'}]"
+"há cảo ở đây cũng đa_dạng loại , mà bịt_mắt lại ăn chắc kbit cái nào ra cái nào đâu vỏ dày mà nhân thì na_ná nhau rất khó phân_biệt à quên_mình phân_biệt đc há cảo bắp nha vì nó có bắp .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+nhà_vệ_sinh chật_chội và bẩn .,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'negative'}]
+nước ở đây cũng đa_dạng lắm nha .,['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'positive'}]
+"kêu hai lon co ca uống kg hét kêu bé phục_vụ tới tính tiền trả lại lon , nói câu nghe tức dể sợ , đả nhập máy rồi kg cho trả lại .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"quán có chè thái , ngô , bưởi , sữa_chua đậu_đỏ ăn cũng đa_dạng và ngoài_ra còn có các món ăn vặt như nem , khoai .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+thái_độ nhân_viên tồi,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"bò tẩm ướp vừa_miệng , ăn kèm thêm các loại rau với sốt cũng hài_hoà .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+mình không có ấn_tượng gì đặc_biệt với các bạn phục_vụ ở đây .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'neutral'}]
+quán nằm trên đường cách_mạng_tháng_tám khá dễ tìm .,['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'positive'}]
+ngon lắm nhé .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"cá_nhân mình không hợp với gong cha , vị của nó mình không thấy ngon .",['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'neutral'}]
+tức wa mình bỏ về luôn và từ nay ko bao jo quay lại .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'negative'}]
+"quán nhỏ nhỏ xinh_xinh , dễ tìm .","['LOCATION#GENERAL', 'AMBIENCE#GENERAL']","[{'LOCATION#GENERAL': 'positive'}, {'AMBIENCE#GENERAL': 'positive'}]"
+bữa mình order ngay happy day có code giảm tới nhưng chất_lượng đồ uống vẫn ổn .,"['RESTAURANT#MISCELLANEOUS', 'DRINKS#QUALITY']","[{'RESTAURANT#MISCELLANEOUS': 'positive'}, {'DRINKS#QUALITY': 'positive'}]"
+đến đây mà sống ảo là quá perfect luôn .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"menu đặt sẵn trên bàn nên chúng_mình nhanh_chóng gọi món với sự giúp_đỡ , giải_thích tận_tình của nhân_viên top blade g , cá_hồi trộn sashimi , thịt bò cuộn nấm , nấm xào tỏi , khoai nghiền và lon pepsi light .","['FOOD#STYLE&OPTIONS', 'SERVICE#GENERAL']","[{'FOOD#STYLE&OPTIONS': 'neutral'}, {'SERVICE#GENERAL': 'positive'}]"
+"quán ấm_cúng , nhân_viên dễ_thương món có milk foam ngon lắm nha .","['AMBIENCE#GENERAL', 'SERVICE#GENERAL', 'DRINKS#QUALITY']","[{'AMBIENCE#GENERAL': 'positive'}, {'SERVICE#GENERAL': 'positive'}, {'DRINKS#QUALITY': 'positive'}]"
+trà chả hiểu sao k cho được vào tách mà cho vào cốc take away trông mất thẩm_mỹ .,['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'negative'}]
+"cửa_hàng bán ngoài bánh_mì còn có các loại bánh ngọt , bánh_mì ngọt các kiểu .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"gà ở đây ngon , hôm đó mình với bạn gái ăn combo kèm nước là .","['FOOD#QUALITY', 'FOOD#PRICES']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#PRICES': 'neutral'}]"
+"quán hơi nhỏ , dc cái view vỉa_hè ngồi ngắm phố_xá xe_cộ đi_lại cũng hay_hay .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'neutral'}]
+"mình và bạn uống thử trà sữa ở đây , vị cũng khá ngon , giá_cả tương_đối chấp_nhận được .","['DRINKS#QUALITY', 'DRINKS#PRICES']","[{'DRINKS#QUALITY': 'positive'}, {'DRINKS#PRICES': 'positive'}]"
+giá trung_bình khoảng k người nhé .,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'neutral'}]
+"chapche miến trộn , hình_thức đẹp .","['FOOD#STYLE&OPTIONS', 'FOOD#PRICES']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#PRICES': 'neutral'}]"
+"đặt_hàng trân_châu trắng mà toàn giao trân_châu đen , ko bao h đặt_hàng mà giao đúng yêu_cầu là sao vậy nè .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"mì để trong ly cao , nước cho riêng vào túi nilong nên nhìn sạch_sẽ mà mì cũng ko bị nở .",['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+"nước_tương pha ngon , tương giấm hơi nhạt , ăn càng cay càng ngon nha bêy 🤧 .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"phải nói là rất không hài_lòng , bàn_ghế thì lắc_lư , nhà_hàng thì chật_chội .","['RESTAURANT#GENERAL', 'RESTAURANT#MISCELLANEOUS', 'AMBIENCE#GENERAL']","[{'RESTAURANT#GENERAL': 'negative'}, {'RESTAURANT#MISCELLANEOUS': 'negative'}, {'AMBIENCE#GENERAL': 'negative'}]"
+một mâm như_thế ăn vừa đủ no luôn .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+cơm trắng ở quán thích_hợp ăn với món kho hơn món canh .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+món này là ngon nhất này nhưng chưa đạt tới xuất_sắc .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"cà_phê của cheese rất thơm , vị lại không quá mạnh kiểu như của starbucks nhạt nhạt nói_chung là khác với cafe hàng_quán vn hehe .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"túi nhỏ , túi to .",['FOOD#PRICES'],[{'FOOD#PRICES': 'neutral'}]
+nhà_hàng vs các món ăn ngon khắp mọi vùng miền và đặc_biệt là đồ việt .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"hương_vị đậm_đà , món ăn lên cũng nhanh .","['FOOD#QUALITY', 'SERVICE#GENERAL']","[{'FOOD#QUALITY': 'positive'}, {'SERVICE#GENERAL': 'positive'}]"
+quán có view đẹp .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+vậy cầm tiền_mặt đến ăn cho lẹ không mua chi mắc_công chạy ra chạy vô lấy voucher đến ăn mà_còn có cảm_giác bị coi_thường .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"ở đây có trân_châu gong cha nữa , cùng vs các món ăn vặt , nhưng chỉ đánh_giá cao trà sữa thôi v .","['DRINKS#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'DRINKS#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+lần đầu_tiên đến đập vào mắt mình là một nhà_hàng cà_phê khá sang_trọng và sau đó là cách phục_vụ của nhân_viên tại quán rất chuyên_nghiệp .,"['AMBIENCE#GENERAL', 'SERVICE#GENERAL']","[{'AMBIENCE#GENERAL': 'positive'}, {'SERVICE#GENERAL': 'positive'}]"
+"giờ có thêm vị mới là dưa_gang , trà đen nữa .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"dù_vậy nước sốt lại tính tiền riêng , cho mỗi loại thêm tiền bỏ thêm gram .",['FOOD#PRICES'],[{'FOOD#PRICES': 'neutral'}]
+dễ uống không bị say hôm mình uống trà olong vị ngọt vừa_phải đường đá okie nói_chung là rất thích thức uống ở gongcha đặc_biệt oder qua deli giao hàng đúng giờ .,"['DRINKS#QUALITY', 'SERVICE#GENERAL', 'DRINKS#STYLE&OPTIONS']","[{'DRINKS#QUALITY': 'positive'}, {'SERVICE#GENERAL': 'positive'}, {'DRINKS#STYLE&OPTIONS': 'positive'}]"
+pizza mình được tự chọn vị nhé cái mình chọn là hải_sản ăn ngon lắm đó đế mỏng trên_hết cho cảm_giác nhiều nhân ý mà .,"['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+nhạc quán cũng hay,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+"nhìn_chung thì quán khá nhỏ , có lầu nhưng không_gian cũng nhỏ nhìn tối_tăm với cũ_kỹ kiểu xuống_cấp sao á .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'negative'}]
+"do nướng bằng bếp gas nên nhanh chín lắm , cũng dễ điều_chỉnh nhiệt_độ nên dễ nướng .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+thật_ra là rau đem ra đã nhiều rồi nên mình không kêu thêm .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"có nhiều loại salad mà mình thấy loại nào cũng ngon , ngoài_ra còn có riêng ngô ngọt , cà_chua bi , cà_rốt , giò_lụa thái sợi kèm với loại sốt khác nhau để mình tự trộn 🥗🥗 .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"lâu rồi không ghé gong cha , hôm_nay ghé lại uống ngon gì đâu .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"tô bún ở đây bự phải_biết , riêu cua được bà chủ quán múc muỗng cực lớn nhé , thêm đậu ở trong nồi rất thấm , vài lát huyết cứng nữa cực chuẩn .","['FOOD#STYLE&OPTIONS', 'FOOD#PRICES']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#PRICES': 'positive'}]"
+"nhà_hàng này ở ngay sông nên rất thoáng mát , ở đây mới có món mới về dê , như lẩu dê các món nướng về dê ăn cũng rất ok .","['LOCATION#GENERAL', 'FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'LOCATION#GENERAL': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"nhân_viên cũng thân_thiện , nhanh_nhẹn .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+mảng phục_vụ quá tuyệt xứng_đáng được tip .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"ăn tạm đc , bò tương_đối mềm nhưng ướp khá là nhạt .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+nhưng mình thich milkfoam ở koi hơn vì béo hơn .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"quán ở vincom khu ẩm_thực nên không phải to lắm , hơi bí là đằng khác .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'neutral'}]
+"không_gian quán hơi nhỏ , bán kem với nước .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'negative'}]
+"tuy_nhiên mì ý thì có phần hơi nhạt , nc sốt kèm theo cũng thế .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'negative'}]
+có kèm chén pate ăn kèm nữa nè .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+tôm nhìn ngon nhưng ăn không ngon lắm vì hơi có vị lạ_lạ .,"['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'negative'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+"tụi mình đi người , gọi cả món mới thái tea kakigori , toast lava kim sa , trà hoa_hồng macchiato với trà sữa vớ hongkong .",['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'neutral'}]
+tổng_cộng hơn nhưng đặt bàn qua tablenow nên đc discount và tặng code giảm_giá trên delivery nữa tội gì k thử nhỉ .,"['RESTAURANT#MISCELLANEOUS', 'RESTAURANT#PRICES']","[{'RESTAURANT#MISCELLANEOUS': 'positive'}, {'RESTAURANT#PRICES': 'neutral'}]"
+"đồ_ăn thì k chê vào đâu đc , thịt bò mềm và mọng nước .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"à mà giá thì cũng không cao lắm cũng tầm những quán ts bây_giờ thôi , nhưng giá_cả hợp với chất_lượng của nó nhe hihi .",['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'positive'}]
+quán nằm trên mặt đường phố huế .,['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'neutral'}]
+"cá viên ngon , giá hợp_lí , mỗi phần nhỏ , với đủ các món tuỳ chợ .","['FOOD#PRICES', 'FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#PRICES': 'positive'}, {'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+kem lotte thần_thánh của mình còn ngon hơn .,"['FOOD#PRICES', 'FOOD#QUALITY']","[{'FOOD#PRICES': 'neutral'}, {'FOOD#QUALITY': 'positive'}]"
+"phục_vụ bình_thường , không vui không cười chắc do quán đông qá .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'neutral'}]
+mình order phần small nhưng thức_ăn khá nhiều tầm người ăn là vừa .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+quán rất đẹp và sang chảnh nằm ngay gần vincom bà triệu .,"['AMBIENCE#GENERAL', 'LOCATION#GENERAL']","[{'AMBIENCE#GENERAL': 'positive'}, {'LOCATION#GENERAL': 'neutral'}]"
+"các bạn mang đồ_ăn ra với tốc_độ thần_thánh , tốc_độ ánh_sáng chờ tí là có đồ_ăn rồi tưởng mang đồ cũ có sẵn ai_ngờ không tệ đến mức đó .","['SERVICE#GENERAL', 'FOOD#QUALITY']","[{'SERVICE#GENERAL': 'positive'}, {'FOOD#QUALITY': 'neutral'}]"
+không_gian vào quán khá choáng_ngợp với kiểu bài_trí của quán .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"ko gian rộng và thoáng , trang_trí bắt_mắt nhé .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+quán decor đơn_giản có nguyên thảm cỏ màu xanh trên tường luôn .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"trà vải rất ngon nhưng mình thấy trà sữa olong lạ vị lắm , uống đắng và chát , ai không quen thì sẽ rất khó uống .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"chè màu nhìn không hấp_dẫn lắm , đậu nấu rất ngọt nên mình ăn không thấy ngon , k ly .","['FOOD#PRICES', 'FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#PRICES': 'neutral'}, {'FOOD#QUALITY': 'negative'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+gà thì bình_thường thôi không đặc_biệt lắm .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+thấy quán mở khá lâu rồi nên ghé ăn thử .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'neutral'}]
+"mình với chị gọi ăn thử ba món , thời_gian lên món chắc tầm phút .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'neutral'}]
+"ngoài_ra quán còn bán thêm đồ_ăn như pizza , cá viên chiên và báh ngọt .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+"trên_dưới tr cho chị_em ăn trưa và chắc là lần cuối bà chị cùng phòng đòi ăn thai ex , dù_sao do được ăn ké người có tiền là người có quyền nên mới nhắm_mắt theo chân sau bao ngày ăn lại vẫn không thấy ngon và chả hiểu sao quán vẫn đông .","['RESTAURANT#PRICES', 'RESTAURANT#GENERAL']","[{'RESTAURANT#PRICES': 'neutral'}, {'RESTAURANT#GENERAL': 'negative'}]"
+mình hơi ngạc_nhiên là nhân_viên quán trong ca đông như_vậy .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'neutral'}]
+cầm con tôm lên húp sạch sốt rồi lột vỏ quét thêm sốt xong ăn với bánh_mì rồi canqs mình khoai_tây ta nói nó phê .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+sắp_xếp bàn người vào góc .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+quán đông nhưng đi làm ngành dịch_vụ mà vậy thì quá tệ .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'negative'}]
+ấn_tượng đầu_tiên về không_gian sang_trọng ấm_cúng của nhà_hàng này .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+chất_lượng chưa ăn ai nhưng_mà đã ko trân_trọng khách_hàng rồi .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"quán này nằm mặt_tiền đường đông_đúc , nhưng lại bị khuất vào trong vì vài quán bán vỉa_hè lấn phía trên .",['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'neutral'}]
+"nước cũng chán luôn , cái chocolate lạt nhách , trà sữa hong kong cũng lạt luôn ko cò mùi_vị như trước .","['DRINKS#QUALITY', 'DRINKS#STYLE&OPTIONS']","[{'DRINKS#QUALITY': 'negative'}, {'DRINKS#STYLE&OPTIONS': 'neutral'}]"
+mình thì ko thích ăn khoai_lang lắm vì thấy ăn nhiều cứ bị bứ bứ nên toàn gọi khoai_tây thôi .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+anh chủ quán gợi_ý uống trà đào vì món trà đào là món đặc_biệt ngon nhất_quán nên mình cũng gọi thử .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"lúc mình đến thấy chị chủ đang làm chè bươi cho delivery số_lượng lớn , nên chắc chè bưởi ngon d .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+chất_lượng nước uống khá tệ hơn những lần đầu mình đến .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'negative'}]
+trà bánh sang chảnh .,"['FOOD#STYLE&OPTIONS', 'DRINKS#STYLE&OPTIONS']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'DRINKS#STYLE&OPTIONS': 'positive'}]"
+"nước_chấm phá lấu ăn ngon , mình lôi bánh_tráng ra chấm cũng hợp vị nữa .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"order từ trước h trưa nhưng chọn đến , h chiều mới giao , đâu phải ít thời_gian để làm nước vậy_mà không bao_giờ có đúng cái ly của mình .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"hôm mình đi là t , giá vé nên khá vắng , ăn_uống thoải maí , nhân_viên nhiệt_tình dễ_thương .","['RESTAURANT#PRICES', 'FOOD#STYLE&OPTIONS', 'SERVICE#GENERAL']","[{'RESTAURANT#PRICES': 'neutral'}, {'FOOD#STYLE&OPTIONS': 'positive'}, {'SERVICE#GENERAL': 'positive'}]"
+"nhân_viên thì phục_vụ tốt , tư_vấn rất nhiệt_tình",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+không_gian cổ từ bàn_ghế đến chén bát .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'neutral'}]
+giờ quay lại quán đã thay_đổi đi nhiều .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'neutral'}]
+tách lớp chiên xù lộ ra phần thịt tôm trắng hồng rất hấp_dẫn .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+lớp dầy_đặc khoảng hơn cm trên bề_mặt .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"sốt rượu_vang đỏ mình gọi hôm đó quá loãng , không chua tí_tẹo nào , cũng không còn độ sệt , biết vậy chọn sốt tiêu rồi .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+trà sữa đúng như tên lả tá lả các loại thạch k ly lớn nhưng nếu muốn ăn các loại đặc_biệt thì phải kêu thêm mình sẽ note trong hình .,"['DRINKS#STYLE&OPTIONS', 'DRINKS#PRICES']","[{'DRINKS#STYLE&OPTIONS': 'positive'}, {'DRINKS#PRICES': 'neutral'}]"
+chất_lượng cơm ở lotteria thì phong_độ luôn ổn_định rồi .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"ngoài_ra còn có thêm các loại bánh ngọt giá từ k , hoặc trên ăn và uống cùng cfe cũng rất đượm .","['FOOD#STYLE&OPTIONS', 'FOOD#PRICES', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#PRICES': 'neutral'}, {'FOOD#QUALITY': 'positive'}]"
+nhân_viên rất nhiệt_tình .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+rất thích_hợp ăn gia_đình .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+trước_kia nhà_hàng chỉ chuyên phục_vụ tiếp khách gặp_gỡ bạn_bè nhưng sau_này đầu_tư thêm nhà_hàng tiệc cưới thật hoành trang .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"bánh vừa_phải bột mịn ngon dày_dặn , thơm vị vừng nữa nhưng so với mình thì thấy bánh hơi bị ngọt chút_xíu .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"phục_vụ lên món nhanh , thân_thiện .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+có một cơ_sở bên phan xích long rồi .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'neutral'}]
+"bây_giờ lâu ko ăn , quay lại thì thấy hơi thất_vọng tí",['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'negative'}]
+nhân_viên nhiệt_tình thân_thiện lắm nè .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"đi buổi trưa nên không_gian đèn_đóm không phát_huy được hết thế mạnh , không đẹp lắm .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'neutral'}]
+công_nhận nấu ngon thiệt .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+đành liều chấm không_gian nè p .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"bánh pate chaud nhỏ nhỏ ăn khai_vị kiểu lót bụng đỡ đói trong lúc đợi đến giờ làm lễ , bánh nhỏ khá ngon , bột bánh và nhân thơm ngon .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+"ly protein pro đậm mùi chuối , như mùi sữa bột mình nghĩ là do có bột whey .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"món miến tay cầm gì đó thấy pr là giòn ngon lắm mà mình thấy mặn , miễn thì dính hết vào với nhau không ngon theo cảm_nhận của mình .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'negative'}, {'FOOD#STYLE&OPTIONS': 'negative'}]"
+"trà uống thì mình thấy cũng đc , k có gì nổi_trội nhưng cũng k mờ_nhạt .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'neutral'}]
+giá_cả khá ổn so với khu trung_tâm .,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'positive'}]
+ăm cùng khoai_tây chẳng hề ngấy mà rất hợp .,"['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+"đồ_ăn ngon , nước uống ok lun , không_khí vui_vẻ và nhộn_nhịp thích_hợp ngồi tán ngẫu với bạn_bè và nghe nhạc .","['FOOD#QUALITY', 'DRINKS#QUALITY', 'RESTAURANT#GENERAL']","[{'FOOD#QUALITY': 'positive'}, {'DRINKS#QUALITY': 'positive'}, {'RESTAURANT#GENERAL': 'positive'}]"
+saturdays kitchen đã làm rất tốt rồi chỉ cần thêm xíu nữa là sẽ hoàn_hảo thôi .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+nhìn cái bánh được xếp rõ đẹp và màu_sắc rất bắt_mắt .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"giá_cả một miếng thì_phải , cũng k rẻ lắm , chắc phai canh sale mới dam đi ăn tiếp .",['FOOD#PRICES'],[{'FOOD#PRICES': 'neutral'}]
+mình ít khi reiew nhưng quán này đã để lại mình ấn_tượng và bạn cùng ăn với mình cũng rất thích nơi đây .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+thích nhất ở đây có ghế_dài tựa khá là thích mà cũng khá là yên_tĩnh a .,"['AMBIENCE#GENERAL', 'RESTAURANT#MISCELLANEOUS']","[{'AMBIENCE#GENERAL': 'positive'}, {'RESTAURANT#MISCELLANEOUS': 'positive'}]"
+"britea , thương_hiệu trà sữa khá là nổi hiện_nay .",['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+chất_lượng thì ngày_càng xuống mình order đường đá mà lát đem ra thì đá ít mà đường nhiều hihi .,"['RESTAURANT#GENERAL', 'DRINKS#STYLE&OPTIONS', 'SERVICE#GENERAL']","[{'RESTAURANT#GENERAL': 'negative'}, {'DRINKS#STYLE&OPTIONS': 'neutral'}, {'SERVICE#GENERAL': 'negative'}]"
+"popcorn nổ đều hạt , to lắm .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"phục_vụ là nam , đồng_phục rất hợp với phong_cách quán .",['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+"món đầu_tiên là súp tuyết nhĩ cua gà ai ăn mặn thì sẽ thấy nhạt , còn mình thì thấy vừa .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"bánh_mì bơ tỏi vỏ giòn thơm ngậy béo của phô_mai , cái to_đùng luôn ý .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+lên món hơi lâu .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"cách đây một năm thì nhà_hàng phục_vụ không được tốt lắm , nhưng gần đây thì chất_lượng cải_thiện rõ_rệt .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+đi đứa tổng thiệt_hại cũng mấy trăm .,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'neutral'}]
+gong cha là trải_nghiệm đầu_tiên dẫn mình đến gia_nhập ' đạo trà sữa ' như hiện_nay .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"bạn mình thì k thích gỡ xương nên gọi cơm gà viên , có kèm cả quả trứng rán nữa khá ok .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'neutral'}, {'FOOD#QUALITY': 'positive'}]"
+"vị_trí nằm trên mặt đường đinh tiên hoàng , có mặt đường luôn mặt hướng ra bờ hồ , view siêu đẹp nhé .","['LOCATION#GENERAL', 'AMBIENCE#GENERAL']","[{'LOCATION#GENERAL': 'positive'}, {'AMBIENCE#GENERAL': 'positive'}]"
+"sau em mình mỏi lưng , đổi cái ghế_dựa của bàn kế bên đó , cô nhân_viên quăng hẳn cái lườm vào mặt thằng nhỏ , rồi đá chân_mày cho anh bạn đồng_nghiệp như kiểu ' ê , xem nó kìa ' .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+mình đi đen đá vì thích không_gian vintage của quán .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+hồi đó gcha ở đây khá vắng nhưng nhờ deco lại thấy khách đông hơn nhiều .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+sốt cũng bị nhạt và thiếu vị nên ăn ngấy lắm .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'negative'}]
+cảm_thấy bản_thân có_vẻ hợp trà thạch đào của cơ_sở này .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"tuy_nhiên , theo mình nghĩ có_lẽ nước dùng hơi mặn .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'negative'}]
+"quán nằm gần ngã tư huỳnh mẫn đạt , an_dương_vương .",['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'neutral'}]
+"không_gian cổ_kính nhìn vừa đẹp vừa lạ , có lầu .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+mì nóng vì được bỏ lò nướng .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"đồ uống thì ko ngon lắm , phần m order cappuccino và bingsu berry hết , giá ổn cho vị_trí trung_tâm tp .","['DRINKS#QUALITY', 'DRINKS#PRICES', 'DRINKS#STYLE&OPTIONS']","[{'DRINKS#QUALITY': 'neutral'}, {'DRINKS#PRICES': 'neutral'}, {'DRINKS#STYLE&OPTIONS': 'neutral'}]"
+"bò lúc_lắc với khoai_tây chiên , sườn bò mỹ nướng sốt bbq , phần salad , mực chiên giòn và cá ba_sa chiên giòn .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+ở đây xin thêm rau là cho thêm phần rau giá to lắm mà rau tần ô hơi bị ít .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"mình chọn menu giá giữa , thịt rất ngon , mềm và thấm sốt .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"nấm này cơ_bản đã khô , chiên lên còn khô và ngán hơn .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'negative'}]
+"cơm sườn mình thấy ngon , kiểu cơm bên dưới rang vàng vs rau củ đậm_đà ngấm gia_vị .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"nhân_viên nhanh_nhẹn và chu_đáo , luôn hỏi ý khách khi muốn dọn_dẹp hoặc lên món tiếp_theo , biết quan_sát để_ý khách .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"mình rất thích ăn sushi sẵn ra pt thèm quá nên đến thử , nhìn_chung thì món ăn chưa được ngon lắm , gừng ngâm hơi ngọt , nước_chấm khá mặn .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'neutral'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+milk foam béo mặn chứ không ngọt .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+quán có mặt_tiền trước và sau nên cảm_giác thoáng chứ ko bị ngộp như các quán cf máy_lạnh khác .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+hà nọii cũng khong nhiều quán và chất_lượng như này đâu nha .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"không_gian khá đẹp , có chỗ ngồi ở cả trệt và lầu .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"sốt tiêu thì mình chưa thấy ấn_tượng và đậm_đà cho lắm , có thơm mùi tiêu nhưng vẫn thấy sốt hơi lạt thì phải hoặc do mình ăn mặn chăng .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+"kệ có lẩu cua_đồng ngon phết , nước lẩu thơm ngon , đậm vị , đĩa đồ nhúng nào cũng khá đầy_đặn , không độn .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+"kem cheese thơm , ngậy có vị mặn mặn nhưng hơi thiếu chua đặc_trưng .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+"đồ uống ổn , giá_cả hợp_lý , nhân_viên nhiệt_tình .","['DRINKS#QUALITY', 'RESTAURANT#PRICES', 'SERVICE#GENERAL']","[{'DRINKS#QUALITY': 'positive'}, {'RESTAURANT#PRICES': 'positive'}, {'SERVICE#GENERAL': 'positive'}]"
+"xà_lách nhìn sạch , ăn ngon , kèm nước_ngọt nữa .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+vì vắng khách nên nv pha nước cũng nhanh .,"['SERVICE#GENERAL', 'RESTAURANT#GENERAL']","[{'SERVICE#GENERAL': 'positive'}, {'RESTAURANT#GENERAL': 'neutral'}]"
+chắc_chắn sẽ quay lại nếu có cơ_hội .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"gà mềm , ngấm gia_vị .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+mà thất_vọng nhất có_lẽ là cách phục_vụ của nhân_viên nơi đây có cảm_giác khó_chịu làm_sao ấy .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+nhà_hàng không linh_động hỗ_trợ k.h.,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"mình thích nhất bánh dâu , bánh đem ra nóng đổ sốt lên chua_chua ngọt ngọt bao tăng g .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+uống mát lắm .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+mì xào phá lấu k hôm_nay mì xào ngon xuất_sắc huhu bơ thơm ơi_là thơm .,"['FOOD#PRICES', 'FOOD#QUALITY']","[{'FOOD#PRICES': 'neutral'}, {'FOOD#QUALITY': 'positive'}]"
+kem và thạch ăn kèm ok .,"['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+"quadn ở pnt này mở đc năm rồi ấy , nay vẫn đông khách chứ ko bị ế hay vắng khách đâu .","['RESTAURANT#GENERAL', 'LOCATION#GENERAL']","[{'RESTAURANT#GENERAL': 'positive'}, {'LOCATION#GENERAL': 'neutral'}]"
+có nhiều loại thịt hải_sản giò,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+các món đều ngon .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+dịch_vụ giao hàng của deli thí quá ok rồi khỏi lo .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"à , về giá_thành , với không_gian , dịch_vụ và chất_lượng ở đây thì mình cảm_thấy giá không hẳn là đắt , cá_nhân mình thì thấy khá là hợp_lý .",['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'positive'}]
+"mỳ ý mình gọi loại là gà nấm , sốt kem và sốt bbq .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+"đồ_ăn nguội , giá đắt , nhân_viên chào khách mà cứ như đuổi khách .","['FOOD#QUALITY', 'FOOD#PRICES', 'SERVICE#GENERAL']","[{'FOOD#QUALITY': 'negative'}, {'FOOD#PRICES': 'negative'}, {'SERVICE#GENERAL': 'negative'}]"
+giá ko quá đắt đâu .,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'positive'}]
+"từ chợ đông ba qua cầu gia hội rồi rẽ phải đường trịnh công sơn , quán nằm bên trái , bên trong con đường_đất khoảng mét từ đường trịnh công sơn .",['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'neutral'}]
+phô_mai nhiều cộng với bánh_mì giòn ăn rất đã .,"['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+nhớ hương_vị thơm ngon dai dai và khứa từng lát cắt ra .,"['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+"có_điều hoà nhưng mùi cửa_hàng thì rất tệ , có mùi của ẩm_mốc và khăn lau nhà để trong nhà_kho .","['RESTAURANT#MISCELLANEOUS', 'AMBIENCE#GENERAL']","[{'RESTAURANT#MISCELLANEOUS': 'negative'}, {'AMBIENCE#GENERAL': 'negative'}]"
+"về phần dessert thì đồng giá với món là cream brulee và lava chocolate , ai thích vị vừa , không ngọt thì chọn lava chocolate , riêng mình ưu_ái cream brulee hơn , tuy hơi bé tí , ăn không đã thèm gì hết .","['FOOD#PRICES', 'FOOD#STYLE&OPTIONS']","[{'FOOD#PRICES': 'neutral'}, {'FOOD#STYLE&OPTIONS': 'negative'}]"
+đồ không có nhiều và đa_dạng như các quán bình_dân khác .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+"bánh này ăn khá lạ , kiểu rán vàng ươm hơi nướng cứng ròn ấy nhá .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+"phần đầu thăn ngoại thì to và mềm có ít mỡ , thịt ăn rất là béo .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"phải nói chi_nhánh này là chi_nhánh mình cảm_thấy không ok nhất trong những chi_nhánh của đen đá trà sữa vị như bị thiu , trân_châu tím gì đó thì sượn ngắt , cứng và nhai muốn gãy răng","['DRINKS#QUALITY', 'RESTAURANT#GENERAL', 'DRINKS#STYLE&OPTIONS']","[{'DRINKS#QUALITY': 'negative'}, {'RESTAURANT#GENERAL': 'negative'}, {'DRINKS#STYLE&OPTIONS': 'neutral'}]"
+mỗi_tội quán siêu đông nên phục_vụ hơi chậm .,"['RESTAURANT#GENERAL', 'SERVICE#GENERAL']","[{'RESTAURANT#GENERAL': 'positive'}, {'SERVICE#GENERAL': 'negative'}]"
+"về phần trà_trước , không biết ai như mình không nhưng luôn thích mức đường ở dưới , để cảm_nhận vị trà cho rõ .",['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'neutral'}]
+đặc_biệt có cái thanh quấn bằng sắt dẫn lên khu tầng tối hơn chút nhưng cảm_giác cũng rất hay .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"bún_bò gân chả k tô cũng khá to , nước_lèo ngon , thịt mềm , chả to ngon .","['FOOD#STYLE&OPTIONS', 'FOOD#PRICES', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#PRICES': 'neutral'}, {'FOOD#QUALITY': 'positive'}]"
+"quán chưa thật_sự hợp vệ_sinh cho lắm , thái_độ phục_vụ của nhân_viên chưa thân_thiện .","['RESTAURANT#GENERAL', 'SERVICE#GENERAL']","[{'RESTAURANT#GENERAL': 'neutral'}, {'SERVICE#GENERAL': 'negative'}]"
+buôn_bán mà bắt_ép khách_hàng gì kỳ dậy trời .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'negative'}]
+nhân_viên lễ_phép và chu_đáo,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+trà sữa uống cũng ổn .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'neutral'}]
+bàn khoảng tr thì phải .,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'neutral'}]
+"về món thức uống , trà thơm nhưng mùi lưu hơi nhạt .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'neutral'}]
+"mình thấy món này mắc và không ngon , vị nhạt nhoẽ và không thấm gì hết , giống như ăn răng mực luộc vậy á .","['FOOD#QUALITY', 'FOOD#PRICES']","[{'FOOD#QUALITY': 'negative'}, {'FOOD#PRICES': 'negative'}]"
+"không_gian khá rộng_rãi , sắp_xếp bàn_ghế hợp_lý , trang_trí dễ_thương .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"nhân_viên phục_vụ nhanh_nhẹn , chuyên_nghiệp gửi xe free nhé .","['RESTAURANT#MISCELLANEOUS', 'SERVICE#GENERAL']","[{'RESTAURANT#MISCELLANEOUS': 'positive'}, {'SERVICE#GENERAL': 'positive'}]"
+"vị trà của gongcha cũng không đậm lắm , hay mình uống nhanh nên không nghe mùi nhỉ .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'neutral'}]
+"vị trà sữa cũng ok , k đặc_biệt lắm .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'neutral'}]
+từng lớp chesse mỏng xen_kẽ lớp bánh mềm ngon lắm nha .,"['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+"đi vào thứ , , thì được giảm nữa nhé .",['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+canh rong biển rất vừa miệg .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+khoai_tây chiên quá mặn ..... thật_sự rất mặn .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'negative'}]
+bánh_canh ghẹ có nước súp đậm_đà ăn rất vào miệng ko bị ngấy .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"dịch_vụ nhân_viên dễ_thương , lúc ra về còn được nghe lời chào .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"nhân_viên nhanh_nhẹn , cũng k cần đợi lâu .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"không_gian ok , chỉ là bàn hơi chật , tụi mình đi người là ngồi sát_sàn_sạt nhau luôn .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'neutral'}]
+"salad thì phải nói dở tệ luôn , ko lẽ khuyên mấy bạn mua chai dầu giấm trong siêu_thị ấy về mà trộn còn ngon hơn , rau nhạt_nhẽo và ko thấm .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'negative'}]
+"không_gian quán rộng_rãi , nhiều bàn , có cả ngoài_trời và trong nhà .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"mì quảng có tôm to bự , bánh_đa , rau , thịt cùng với đó là nước sốt kẹo kẹo vô_cùng đặc_biệt làm_nên món mì quảng khô siêu ngon này .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"món ăn lên tương_đối lâu , lúc mang lên vẫn còn nóng_hổi , thơm_phức chắc nhờ dầu mè toả ra .","['SERVICE#GENERAL', 'FOOD#QUALITY']","[{'SERVICE#GENERAL': 'negative'}, {'FOOD#QUALITY': 'positive'}]"
+ngoài_ra ở đây có trà thái mình cũng mê lắm nhé .,['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'positive'}]
+"vị_trí khó tìm , khuất và tối , kế bên đen đá .",['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'negative'}]
+"lần khác thì lúc đóng nắp , nhân_viên bị trượt tay làm milkfoam hơi đổ xíu và thêm cho mình milkfoam nhiều hơn cảm_động hết_sức .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+ăn no phè hết tầm k ng .,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'neutral'}]
+"chất_lượng thì khỏi phải bàn , thịt bò đang ra vẫn còn nóng , mềm , order chín vừa nên thịt đem ra thịt bên trong khi cắt ra vẫn còn hồng siêu thích .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"thực_sự đen đá khá thích_hợp để ngồi trò_chuyện vì quán mở nhạc hay và xung_quanh cũng không ồn cho lắm , tuy_nhiên cũng đừng ngồi lâu quá nhé vì sẽ không có chỗ cho khách khác .","['RESTAURANT#GENERAL', 'RESTAURANT#MISCELLANEOUS']","[{'RESTAURANT#GENERAL': 'positive'}, {'RESTAURANT#MISCELLANEOUS': 'positive'}]"
+"giá_cả tính ra k đắt với quán trà bánh sang chảnh tn đâu nhé , đồ uống chỉ từ đơn , đôi và bánh tầm k .","['DRINKS#PRICES', 'FOOD#PRICES', 'RESTAURANT#PRICES']","[{'DRINKS#PRICES': 'positive'}, {'FOOD#PRICES': 'positive'}, {'RESTAURANT#PRICES': 'positive'}]"
+"trà uống ổn , thơm .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"thức uống mình order đầu_tiên hình_như có rượu_vang gì đó , hơi khó uống .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'neutral'}]
+không_gian cũng không rộng lắm .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'neutral'}]
+decor của quán kiểu vintage .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+vị_trí quán nằm ở tầng .,['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'neutral'}]
+đặc_biệt sẽ rất là đẹp nếu ăn vào ban_đêm .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"đồ_ăn ngon , sạch_sẽ , phục_vụ nhanh_nhẹn , thái_độ tốt , giá_cả phải_chăng .","['FOOD#QUALITY', 'SERVICE#GENERAL', 'RESTAURANT#PRICES']","[{'FOOD#QUALITY': 'positive'}, {'SERVICE#GENERAL': 'positive'}, {'RESTAURANT#PRICES': 'positive'}]"
+bọn mình thích ăn măng nên gọi thêm măng nữa là ăn no ứ_hự luôn .,"['FOOD#STYLE&OPTIONS', 'FOOD#PRICES']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#PRICES': 'neutral'}]"
+"ốc tỏi ổn , ốc tươi nhưng nêm nếm không xuất_sắc đâu .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+người pha_chế đồ uống nhìn rất chuyên_nghiệp .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+đi ăn_ở đây lần thứ rồi mà vẫn ko thể ưng được cách phục_vụ ở đây .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+ngay cạnh quầy gửi đồ của lotte_mart .,['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'neutral'}]
+"và ok , ko có salad đồng_nghĩa với việc nhanh ngấy và bứ , toàn đồ nhiều dầu_mỡ mà .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'negative'}, {'FOOD#QUALITY': 'negative'}]"
+chất_lượng giá đắt thế nhưng_mà chất_lượng mình khá là ưng a .,"['RESTAURANT#PRICES', 'RESTAURANT#GENERAL']","[{'RESTAURANT#PRICES': 'negative'}, {'RESTAURANT#GENERAL': 'positive'}]"
+"salad trong dĩa kèm theo cũng ok , dễ ăn .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+cơ nhân thì cho thoáng tay hơn .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+lúc trước thích uống ở đây lắm nhưng sao dạo nay thấy ko ngon như xưa nữa .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'negative'}]
+mình gọi món khá đặc_trưng của thái là cá trênchieen giòn ăn kèm xoài và gỏi ba_khía đu_đủ .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+"vị_trí nằm ở tân_bình , khá xa chỗ mình bình_thạnh , nên muốn tới đây phải xài google maps để dẫn đường , vì mình không rành đường bên khu này lắm .",['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'neutral'}]
+"hôm ấy tình_cờ mình đi với bạn qua đây , thấy lò bánh này bày nhiều loại bánh nên ghé vào mua thử .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"quán nhỏ cơ_mà thấy không gọn_gàng lắm , nước_chấm không quá ngon .","['AMBIENCE#GENERAL', 'FOOD#QUALITY']","[{'AMBIENCE#GENERAL': 'negative'}, {'FOOD#QUALITY': 'negative'}]"
+mình order cơm gà và cao_lầu .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+lần đầu đến huế nên gặp khó_khăn trong việc tìm quán .,['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'negative'}]
+"trà sữa thì ổn , rất thơm .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"bỏng có khá nhiều vị_từ bình_thường , phô_mai , caramel cho đến socola cũng có hết .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+chế_biến nhìn cực_kỳ chuyên_nghiệp và nhanh gọn nhưng chẳng phải vì_thế mà mất đi phần_nào khéo_léo đâu nhé .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"vị_trí sát biển , thoáng mát vô_cùng .","['LOCATION#GENERAL', 'AMBIENCE#GENERAL']","[{'LOCATION#GENERAL': 'positive'}, {'AMBIENCE#GENERAL': 'positive'}]"
+điểm trừ ở của quán là phần đế bánh_nướng hơi bị giòn quá .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'negative'}]
+có sân để xe nhưng vừa xe_máy thôi .,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'neutral'}]
+"món cá_trê chiên giòn thì phải nói là xuất_sắc , còn món gỏi cay ngon nhưng mình ăn ba_khía k quen nên hơi lạ_lạ .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+cũng không khác lắm so vơi những nhà_hàng đắt tiền .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'neutral'}]
+"mình ăn một nồi lẩu nhỏ đc mẹt rau một nhúm , với một_ít bò , sườn sụn và giò , đi người ăn ko no","['FOOD#STYLE&OPTIONS', 'FOOD#PRICES']","[{'FOOD#STYLE&OPTIONS': 'negative'}, {'FOOD#PRICES': 'neutral'}]"
+"rất thích_hợp để họp_mặt bạn_bè , ăn_uống tiệc_tùng gia_đình , không_gian rộng_rãi buổi tối thì nghe em mình nói cao_cấp hơn , có hào ăn thoải_mái mình ăn dìn ký từ hồi còn ở q , không nhớ tên đường , đến sau_này mở thêm ở cộng_hoà , thì mình chuyển qua đó ăn luôn .","['AMBIENCE#GENERAL', 'FOOD#STYLE&OPTIONS', 'LOCATION#GENERAL']","[{'AMBIENCE#GENERAL': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}, {'LOCATION#GENERAL': 'neutral'}]"
+xôi lá_sen ăn cũng bthuong à ko ngon lắm .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+"milkfoam ở đây còn ít hơn gongcha mua ở bên bình_tân , tsữa k còn béo thơm như xưa mà như nc dão thêm tí đường .","['DRINKS#STYLE&OPTIONS', 'DRINKS#QUALITY']","[{'DRINKS#STYLE&OPTIONS': 'negative'}, {'DRINKS#QUALITY': 'negative'}]"
+"à menu thay_đổi từng ngày nhé , không giữ nguyên đâu .","['FOOD#STYLE&OPTIONS', 'DRINKS#STYLE&OPTIONS']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'DRINKS#STYLE&OPTIONS': 'positive'}]"
+béo béo mặn mặn_mà hình_như càng_ngày_càng ít thì phải .,"['DRINKS#QUALITY', 'DRINKS#STYLE&OPTIONS']","[{'DRINKS#QUALITY': 'neutral'}, {'DRINKS#STYLE&OPTIONS': 'negative'}]"
+đồ nướng vs lẩu vừa ăn .,"['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+decor chỉ là quầy hàng khiêm_tốn thôi .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'neutral'}]
+ko thấy vị béo nhiều mà chỉ thấy mặn_chát th .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'negative'}]
+"không_gian quán không rộng lắm nhưng cũng không hẹp , khá ấm_cúng .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'neutral'}]
+"con_nhỏ e kiu ly trà sữa oolong hay hongkong gì đó trong cái list milk lun , hehe phát_hiện đc món mới ngon hơn lài xanh , có_vẻ mốt sẽ đổi món này .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"tới tầm h là giò , heo hết sạch .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+"nhưng đem về thì mùi thơm của bỏng vẫn còn giư nguyên , độ giòn vẫn còn nữa chứ .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"rau củ xào giòn , ăn cũng bình_thường .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+"mỗi lần ghiền trà sữa là nhớ ngay tới gong cha , trà sữa này thì khỏi bàn_cãi nữa vì nó quá nổi_tiếng .",['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+điểm cộng ở đây là không_gian đẹp và thoáng .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+đang có chương_trình km gà phô_mai trứng muối salad là .,"['RESTAURANT#MISCELLANEOUS', 'FOOD#PRICES', 'FOOD#STYLE&OPTIONS']","[{'RESTAURANT#MISCELLANEOUS': 'positive'}, {'FOOD#PRICES': 'neutral'}, {'FOOD#STYLE&OPTIONS': 'negative'}]"
+"cá_lăng chiên qua cho vàng , đảo đảo chấm cùng mắm_tôm .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'neutral'}, {'FOOD#QUALITY': 'positive'}]"
+như_vậy thì cũng xứng_đáng để quay lại quán nhiều lần nữa đúng không nhỉ,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"mình có đặt cả bánh gato cuộn trà xanh , xong gì gì nữa í chả nhớ .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+nhân_viên không lịch_sự với khách khi gọi món .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"đặc_biệt chủ quán cũng khá lớn_tuổi nhưng phục_vụ nhanh_nhẹn , tận_tình , thân_thiện lắm luôn , mình ăn xong còn hỏi mình là ăn có được không con nữa .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"giá tiền thì vừa_phải , hợp_lý .",['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'positive'}]
+nhà_hàng chuyên phục_vụ những món ăn mang đậm hương_vị ý .,"['RESTAURANT#GENERAL', 'FOOD#QUALITY']","[{'RESTAURANT#GENERAL': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"mình ăn phần bò gr tầm thì_phải , chất_lượng , bò hơi tái nên ăn mềm ngọt thịt .","['FOOD#STYLE&OPTIONS', 'FOOD#PRICES', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'neutral'}, {'FOOD#PRICES': 'neutral'}, {'FOOD#QUALITY': 'positive'}]"
+"lâu_lâu đổi quán một tý , hôm_qua bọn mình chọn topping beef vì nghe nói ở đây ngon và không_gian thoải_mái lắm .","['FOOD#QUALITY', 'AMBIENCE#GENERAL']","[{'FOOD#QUALITY': 'positive'}, {'AMBIENCE#GENERAL': 'positive'}]"
+trưa nắng thèm trà sữa order ly ở chi_nhánh q .,['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'neutral'}]
+thiệt là quán ăn_ở đây không ngon như ở sài_gòn .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'negative'}]
+giá_cả ở đây mình thấy hợp_lý so với chất_lượng cũng như mặt_bằng chung các quán nhật .,"['RESTAURANT#PRICES', 'RESTAURANT#GENERAL']","[{'RESTAURANT#PRICES': 'positive'}, {'RESTAURANT#GENERAL': 'positive'}]"
+kêu phàn top blade với mỳ ý sốt kem .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+đủ thì được quai và sticker .,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'neutral'}]
+không_gian quán khá dài chật ngang nhưng biết cách bố_trí nên trông cũng ổn .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'neutral'}]
+"lâu rồi mình mới ghé lại gongcha , hình_như đây là vị mới thì phải .",['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'positive'}]
+"trang_trí thì hơi chán , dù giờ có thêm mấy bức tranh vẽ_vời này_nọ v .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'negative'}]
+"trà đào không mùi nhiều , váng sữa cũng nhàn_nhạt .","['DRINKS#QUALITY', 'DRINKS#STYLE&OPTIONS']","[{'DRINKS#QUALITY': 'negative'}, {'DRINKS#STYLE&OPTIONS': 'neutral'}]"
+nhưng bù lại bánh khá rẻ và ngon nữa .,"['FOOD#PRICES', 'FOOD#QUALITY']","[{'FOOD#PRICES': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"quán này mình hay ghé tới , rất đông khách hnay cũng ko ngoại_lệ .",['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"món này cũng k có gì lạ , cuốn chặt tay , ngon .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+lúc sau có bạn nhân_viên bê nước tỏ thái_độ khi mình đổi chỗ .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+mình gọi trà xanh milk foam chân trâu trắng size m tổng là .,"['DRINKS#STYLE&OPTIONS', 'DRINKS#PRICES']","[{'DRINKS#STYLE&OPTIONS': 'neutral'}, {'DRINKS#PRICES': 'neutral'}]"
+"gỏi gà trộn thấm , gà chặt khúc vừa ăn , không phải là gà ta , ko thích ăn cháo thì có_thể gọi bún miến .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"đồ_ăn đúng kiểu đắt_xắt_ra_miếng , nước lẩu chua_cay chuẩn vị , thịt bò thì siêu siêu ngon , mềm ngọt và thơm .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+trần_đời không_lẽ bình_thường bán chè bưởi cho khách ko bán nc cốt dừa .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+rau đủ loại rau rau cải rau muốn các thứ và các món ăn kèm như sushi lém .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+giờ cao_điểm quán đông khủng_khiếp và cả nóng nữa nhưng bạn nào cũng cười tươi như hoa 🤣🤣 .,"['RESTAURANT#GENERAL', 'SERVICE#GENERAL']","[{'RESTAURANT#GENERAL': 'positive'}, {'SERVICE#GENERAL': 'positive'}]"
+"đủ sang , đủ lịch_sự nhưng vẫn đủ lãng_mạn , ấm_cúng .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'neutral'}]
+bạn mình thử món khác là trà xanh sữa trân_châu trắng cảm_giác như uống trà ở nhà hằng ngày ý không dở nhưng cũng không gọi là ngon .,"['DRINKS#QUALITY', 'DRINKS#STYLE&OPTIONS']","[{'DRINKS#QUALITY': 'neutral'}, {'DRINKS#STYLE&OPTIONS': 'neutral'}]"
+"giá rổ thì đương_nhiên là rất đắt rùi , phù_hợp vs độ sang chảnh của quán , hihii .",['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'negative'}]
+"không_thể chấp_nhận được , mình tính tiền xong đi luôn và sẽ không quay lại nữa .",['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'negative'}]
+k ngờ cái hàng vỉa_hè gần nhà lại hot đến vậy .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"hàu hôm mình ăn khá nhỏ , không tươi lắm .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'negative'}, {'FOOD#STYLE&OPTIONS': 'negative'}]"
+giá_cả quá mắc .,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'negative'}]
+"cón mấy cái sét bánh macaron hay tổ chim thấy bình_thường ko đặc_sắc , được cái trang_trí đẹp .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'neutral'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+"spagetti cá_hồi sốt kem thì phần cá ổn mà hơi ít , kem vj vừa mà do có mùi thì là nặng nên mình không thích lắm .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'neutral'}, {'FOOD#STYLE&OPTIONS': 'negative'}]"
+quán decor dễ_thương và khá thoáng .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"quán lúc_nào cũng đông hết , phục_vụ đông nên rất nhanh luôn .","['RESTAURANT#GENERAL', 'SERVICE#GENERAL']","[{'RESTAURANT#GENERAL': 'positive'}, {'SERVICE#GENERAL': 'positive'}]"
+"ly cực xinh , chữ_viết tay nhìn khá thân_thiện , bao_bì nhìn có cảm_giác thanh mát lắm .",['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+"phù_hợp takeaway hơn nhưng không_gian quá nhỏ , nhiều người đi mình như lại lấy bàn người nên những nhóm đi như mình không có chỗ phải lấy thêm ghế_ngồi rất chật_chội .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'negative'}]
+"sườn non nướng như kiểu sườn trong cơm tấm á , ăn phê lắm , có thêm chén nước sốt chua_chua mặn mặn có xí vị cay , m thì ko chấm nhìu tại m ăn sườn thấy vừa òi nè .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+nước_ngọt thì loãng nhách ' .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'negative'}]
+"đặc_biệt kem cheese rất ngon , đặc không bị lỏng như các quán khác .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"mỳ mềm , dai , sốt đậm_đà vừa_miệng .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+nhưng_mà ăn cũng không đến_nỗi nào,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+rau và bún ở đây kêu thêm free hết nha .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"đi quán hồi tháng , vô_tình đi ngay lúc quán khuyến_mãi mấy loại bò trừ usda choice .",['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+"người ly trà sữa trân_châu trắng và trà sữa trân_châu đen , đặt_hàng qua delivery thấy ổn , giao hàng cũng nhanh , tầm tiếng .","['DRINKS#STYLE&OPTIONS', 'SERVICE#GENERAL']","[{'DRINKS#STYLE&OPTIONS': 'neutral'}, {'SERVICE#GENERAL': 'positive'}]"
+"medium rare làm vừa đẹp , thịt mềm , sốt thơm .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"mình biết là viết như này sẽ hơi kì , nhưng đúng là nó ko có mùi ngọt của thịt mà mình vẫn hay thấy , mặc_dù mình có order độ chính medium .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+quậy đều uống thì béo ngon hơn .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"cơm_chiên hải_sản thái , món dở tệ nhất trong toàn_bộ menu tiệc .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'neutral'}, {'FOOD#QUALITY': 'negative'}]"
+"nêm nếm vừa ăn , bỏ bơ nhiều nên khá thơm .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+có lò hâm mà thức_ăn nguội_lạnh .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'negative'}]
+"dạo này gà viên lotte cho ít quá , hơi buồn , lúc trước phần cơm cho gà nhiều hơn bây_giờ , tại mình thích cái sốt của nó .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'negative'}]
+"giá_cả thi binh thg k đắt , chỉ tầm từ k thôi ahh .",['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'neutral'}]
+phần bơ nướng chung với toast ko cảm_nhận được nữa nên bánh mất vị béo béo luôn .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+"quán rất rộng , nhưng khi nào cũng đông kín hết cả chỗ .","['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL']","[{'AMBIENCE#GENERAL': 'positive'}, {'RESTAURANT#GENERAL': 'positive'}]"
+mình rất muốn quay lại đây lần nữa để có_thể thử thêm món crepe mật_ong gì đó cũng như bò và các món khác nói_chung là muốn thử hết .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+chân gà rang muối rất ngon,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"nhân_viên nhiệt_tình , chu_đáo .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"không_gian khá rộng , thoáng mát .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"quán buổi tối khá đông vì gần trung_tâm , đồ_ăn ngon mà giá phải_chăng .","['LOCATION#GENERAL', 'FOOD#QUALITY', 'FOOD#PRICES']","[{'LOCATION#GENERAL': 'neutral'}, {'FOOD#QUALITY': 'positive'}, {'FOOD#PRICES': 'positive'}]"
+"thật_sự , mình là fan gong chaaa .",['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"lẩu nước ngon , rau nhút hơi già , ghẹ tươi ngon_ngọt chắc thịt .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+gà chiên phồng bột bắp sốt bbq phần miếng nhỏ .,"['FOOD#STYLE&OPTIONS', 'FOOD#PRICES']","[{'FOOD#STYLE&OPTIONS': 'negative'}, {'FOOD#PRICES': 'neutral'}]"
+nhân_viên phục_vụ_bàn mình khá dễ_thương .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"nước hủ tíu ở đây nêm nếm vừa mà so với mình chắc là_hơi ngọt , còn lại ăn cũng giống giống mấy chỗ khác .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+đồ_ăn được nhưng cái giá thì không hấp_dẫn tẹo nào so với chất_lượng món ăn .,"['FOOD#QUALITY', 'FOOD#PRICES']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#PRICES': 'negative'}]"
+thử món nào cũng không ngon bằng green tea milk foam .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'neutral'}]
+"giá_cả tương_đối xứng tầm , đồ uống theo mình thì hơi lạc , cảm_nhận đc vị đắng đắng của trà , trân_châu ko ngon lắm .","['DRINKS#QUALITY', 'RESTAURANT#PRICES']","[{'DRINKS#QUALITY': 'negative'}, {'RESTAURANT#PRICES': 'neutral'}]"
+"quán bán mì quảng , bún_bò huế , bún mắm và hủ_tiếu nam vang , nằm ngay đầu đường vào chung_cư trần quang diệu rất dễ tìm .","['FOOD#STYLE&OPTIONS', 'LOCATION#GENERAL']","[{'FOOD#STYLE&OPTIONS': 'neutral'}, {'LOCATION#GENERAL': 'positive'}]"
+"đến đây giữ xe dưới hầm , cho giữ xe quận thì cũng ổn .",['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'neutral'}]
+"theo mình thì trà sữa ở đây cũng không có gì đặc_sắc , không đậm_đà , rõ vị , lớp sủi bọt milkfoam bên trên khá nhạt và loãng .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'negative'}]
+"ai dè lúc mở_cửa đi vào thì bị nhân_viên tui cóc quan_tâm là ai mời ra khỏi quán , với lý_do quán chưa set up xong , mời chị qua chi_nhánh khác dùm .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+đi kèm với nó là bát nước_chấm thần thần_thánh .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+chưa bao_giờ ăn bánh nào mà dở vậy .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'negative'}]
+matcha đậu_đỏ có cảm_giác k ngon bằng matcha đậu_đỏ bánh pudding .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'negative'}]
+bánh_mật ong k cái mua tặng nhe .,"['FOOD#PRICES', 'RESTAURANT#MISCELLANEOUS']","[{'FOOD#PRICES': 'neutral'}, {'RESTAURANT#MISCELLANEOUS': 'positive'}]"
+nhưng nhai thì rất ngon và dễ gây nghiện .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"bò rất ngon , nhiều loại thịt .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+đây là chi_nhánh thứ của royaltea mình ghé .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'neutral'}]
+tất_nhiên giá cũng rất cao và chỉ phù_hợp với giới thượng_lưu .,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'negative'}]
+"lúc vào có nhân_viên đưng sẳn trước cổng , hỏi đã đặt bàn chưa và chỉ đến chổ mua vé , nchug nhân_viên nhìn_chung rất lịch_sự và vui_vẻ .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"mực chiên giòn mực nóng giòn , khoanh to , dày , số_lượng ít nhưng chất_lượng , chấm sốt ok .","['FOOD#STYLE&OPTIONS', 'FOOD#PRICES', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'neutral'}, {'FOOD#PRICES': 'neutral'}, {'FOOD#QUALITY': 'positive'}]"
+nước cũng ko ngon lắm .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'neutral'}]
+"phục_vụ ổn , nhanh_nhẹn , thân_thiện .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+chưa ăn thì chưa biết nó thế_nào ăn rồi mới biết nó tuyệt_vời lun ăn mộtt lần phải có lần hai,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+vẫn ấn_tượng từ lần trước nên bữa_nay tôi lại gọi món hamburger và mỳ cà_chua nhật_bản .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"giàn khánh_tiết của quán đẹp , nhìn sáng nhà_hàng .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+đi tầm trưa h đông khủng_khiếp nên chờ món hơi lâu nhưng không thành vấn_đề .,"['RESTAURANT#GENERAL', 'SERVICE#GENERAL']","[{'RESTAURANT#GENERAL': 'positive'}, {'SERVICE#GENERAL': 'negative'}]"
+kim chi là món ăn kèm miễn_phí nhưng rất rất là ngon lun .,"['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"wifi thì yếu , đang kết_nối mà cứ bị out ra hoài .",['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'negative'}]
+có bức tường được thiết_kế để leo núi cũng rất hấp_dẫn những người ưa mạo_hiểm .,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+"vì chưa ăn vị ở bên sing nó ntn nên chưa chắc_chắn có chuẩn vị không , nhưng mình ăn thấy hợp lắm .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"quán khá đông khách nên tốt nhất là nên đặt bàn trước để không phải chờ quá lâu , hệ_thống đặt bàn ổn , nhắn_tin hay gọi điện nhân_viên đều trả_lời lịch_sự dễ_chịu .","['RESTAURANT#GENERAL', 'SERVICE#GENERAL']","[{'RESTAURANT#GENERAL': 'positive'}, {'SERVICE#GENERAL': 'positive'}]"
+", quẩy c .",['FOOD#PRICES'],[{'FOOD#PRICES': 'neutral'}]
+"đồ_ăn bình_thường , từ salad , pizza hay pasta .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'neutral'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+mình thì chẳng bao_giờ thích whipping cream trắng đâu ghét là đằng khác nhưng may quá ly này đã đổi whipping cream khác ko biết là choco hay coffee nhỉ .,['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'neutral'}]
+còn bingsu choco thì max ấn_tượng ở chỗ nguyên cái tô làm từ chocolate luôn .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"nhà_hàng phục_vụ đồ_ăn bình_thường , không gì đặc_sắc , gía quá cao so với chất_lượng đồ_ăn .","['FOOD#QUALITY', 'FOOD#PRICES']","[{'FOOD#QUALITY': 'neutral'}, {'FOOD#PRICES': 'negative'}]"
+giá_cả bọn mình đến ăn vào tầm trưa nên cơm chỉ còn k suất .,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'neutral'}]
+"quán khá rộng , có tầng thì_phải , nhiều bàn .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"so chất_lượng món ăn với giá_thành thì cũng hợp_lý , , .",['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'positive'}]
+lần thứ uống một miếng của bạn thì lại thấy hơi chua t.t.,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'negative'}]
+"mà thấy shop này bán nhiều đồ_ăn vặt lắm luôn á , khi nào có thời_gian order mấy món kia về ăn tiếp .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"bạn mình thì nói tanh mùi trứng , chắc do tuỳ người suy_nghĩ quá .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'negative'}]
+do có coupon off nên tạm ổn .,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+"trân_châu trắng thì ngon nè , sần_sật giòn dai .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"menu đa_dạng , các loại thạch cũng khá nhiều lựa_chọn , có hình minh_hoạ luôn , phục_vụ ổn .","['SERVICE#GENERAL', 'DRINKS#STYLE&OPTIONS']","[{'SERVICE#GENERAL': 'positive'}, {'DRINKS#STYLE&OPTIONS': 'positive'}]"
+vì là quán bún cá bán riêng bún và cá chấm đầu_tiên ở hà_nội nên lượng khách mỗi ngày đều rất đông .,"['RESTAURANT#GENERAL', 'FOOD#STYLE&OPTIONS']","[{'RESTAURANT#GENERAL': 'positive'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+"phục_vụ chào_đón thân_thiện , vui_vẻ và chuyên_nghiệp từ cửa đi vào tận chỗ ngồi .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"tầng của quán có rất nhiều sách , truyện cả tiểu_thuyết nữa .",['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+"mình ăn các thể_loại bánh_nướng , vị thì tạm được , không có gì ngon nhưng không hiểu sao khá đông .","['FOOD#QUALITY', 'RESTAURANT#GENERAL']","[{'FOOD#QUALITY': 'neutral'}, {'RESTAURANT#GENERAL': 'neutral'}]"
+nhân_viên thân_thiện dễ_thương .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+nhà_hàng mình rất thích .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"quán nằm trên tầng , tầng là circle k .",['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'neutral'}]
+"thịt vịt béo , ngon_ngọt rất là thích .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+ngưpfi ăn túi size lớn là vừa vì popcorn khá là ngấy .,"['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'neutral'}, {'FOOD#QUALITY': 'negative'}]"
+"mình ăn dâu dầm , bánh_trôi tàu và nem_chua rán .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+trà xanh kem phomai k size lớn .,"['DRINKS#PRICES', 'DRINKS#STYLE&OPTIONS']","[{'DRINKS#PRICES': 'neutral'}, {'DRINKS#STYLE&OPTIONS': 'neutral'}]"
+món chả_giò tôm thịt rất giòn và ráo dầu .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"không_gian rộng_rãi , sang_trọng tuy_nhiên chất_lượng đã giảm_sút , ko như hồi còn ở lê_thị hồng gấm .","['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL']","[{'AMBIENCE#GENERAL': 'positive'}, {'RESTAURANT#GENERAL': 'negative'}]"
+"nem_chua giòn , nc chấm ngon .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+h đến quán mà vẫn xếp_hàng dài_ngoằng .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"có_điều toilet thì không được thông_thoáng , diện_tích hẹp và có phần hơi cũ , dìn ký mà cải_thiện được thì rất vẹn_toàn .",['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'negative'}]
+giá cx rẻ nữa có thui ấy,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'positive'}]
+"sợi mì xào mềm , thấm có_điều hơi ít phá lấu há cảo chiên giòn .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'negative'}, {'FOOD#QUALITY': 'positive'}]"
+giá_cả nó ở vincom . quận .,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'negative'}]
+"circle k hàng trống là trong những circle k có nhiều hàng nhất trong số chuỗi circle k , đặc_biệt là mình ra lúc_nào cũng còn đá xay .",['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+bạn nhân_viên rất thân_thiện và tốt_bụng .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"thức_ăn không ngon , giá cao so với chất_lượng .","['FOOD#PRICES', 'FOOD#QUALITY']","[{'FOOD#PRICES': 'negative'}, {'FOOD#QUALITY': 'negative'}]"
+"vô bên trong nhà_hàng càng bực_mình hơn khi cả nhà mình đến lúc khoản h nhưng đồ_ăn không còn , cái gì cũng hết và không thấy lên món .","['FOOD#STYLE&OPTIONS', 'SERVICE#GENERAL']","[{'FOOD#STYLE&OPTIONS': 'negative'}, {'SERVICE#GENERAL': 'negative'}]"
+phá lấu có sẵn bánh_mì luôn nha .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+vì có thẻ giảm_giá nên mình mua có hai_mươi_bảy ngàn đồng à .,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+đc cái lẩu và tráng_miệng gỡ lại đc chút .,"['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'neutral'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+nước free refill .,['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'positive'}]
+"vị_trí gần đường điện_biên_phủ , đường tương_đối nhỏ , ít xe .",['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'neutral'}]
+"mình gọi thêm ' khoai_tây chiên , ' và ' bánh_mì bơ tỏi m ' nữa .","['FOOD#PRICES', 'FOOD#STYLE&OPTIONS']","[{'FOOD#PRICES': 'neutral'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+sốt chảy ra hoà vào vỏ bánh giòn_rụm .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+đủ điểm thì bạn sẽ được nhận quai kèm sticker còn đủ điểm thì được ly sứ .,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+"chị chủ thân_thiện , đồ_ăn ra khá nhanh .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"phục_vụ nhanh , lễ_phép .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+mà bao lủng lỗ là thứ ức_chế nhất,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'negative'}]
+"lần đầu_tiên tới quán , nhiều đồ uống quá nên bị ngợp , thôi để bạn nó gọi giùm , hên xui .",['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'positive'}]
+size k được to nhưng bánh dày và siêu nhiều trứng ruốc nên thấy giá vừa_phải .,"['FOOD#STYLE&OPTIONS', 'FOOD#PRICES']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#PRICES': 'positive'}]"
+quán này thì quá lí_tưởng để tụ_tập ăn_uống .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+có cảm_giác giá ko đổi mà chất_lượng thua ngày_xưa nên hơi thất_vọng .,"['RESTAURANT#PRICES', 'RESTAURANT#GENERAL']","[{'RESTAURANT#PRICES': 'neutral'}, {'RESTAURANT#GENERAL': 'negative'}]"
+"đồ hải_sản như ngao , mực , tôm thì loại bé tí_ti , mực mỗi đĩa đc miếng , bạch_tuộc cũng thế cắt nát ra rồi ăn mất ngon .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'negative'}, {'FOOD#QUALITY': 'negative'}]"
+"ăn_người no lặc_lè luôn , thích nhất là sườn mềm , tẩm ướp vừa vị , ăn cùng cơm_rang .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+menu không có tiếng việt .,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'negative'}]
+"cũng món đó mà loại nóng là thơm nồng mùi cà_phê hơn , nhưng gọi ít ngọt mà vẫn ngọt vô_cùng , đâm_ra uống hồi thấy giống menu ghê .","['DRINKS#QUALITY', 'DRINKS#PRICES']","[{'DRINKS#QUALITY': 'positive'}, {'DRINKS#PRICES': 'neutral'}]"
+quán này ngày trước cứ ra đồ_sơn là mới được ăn bây_giờ mở thêm chi_nhánh ở lê_hồng phong nên đi_lại tiện lắm luôn ấy .,"['RESTAURANT#GENERAL', 'LOCATION#GENERAL']","[{'RESTAURANT#GENERAL': 'positive'}, {'LOCATION#GENERAL': 'neutral'}]"
+milkfoam ở đây mặn mặn béo béo ngon nữa .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"quán cũng nhỏ , chừng bàn thôi .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'negative'}]
+lâu_lâu uống lại thấy ngon lắm .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"quán nằm ngay phố lớn , decor đẹp đừng hỏi luôn mà đi ăn sinh_nhật bạn nên chả chụp được nhiều chỉ nháy tạm vài kiểu .","['LOCATION#GENERAL', 'AMBIENCE#GENERAL']","[{'LOCATION#GENERAL': 'neutral'}, {'AMBIENCE#GENERAL': 'positive'}]"
+vị_trí rất thuận_tiện .,['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'positive'}]
+"ở đây gần hồ con rùa ngay trung_tâm thành_phố nên rất thuận_tiện đi_lại , ở đây cũng gần diamond plaza , nhà_thờ đức_bà nên cũng tiện cho việc mua_sắm nữa .",['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'positive'}]
+giá_cả tầm k người,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'neutral'}]
+ly khoảng thì phải .,['DRINKS#PRICES'],[{'DRINKS#PRICES': 'neutral'}]
+"giá_cả thì ổn , không_gian đẹp , vị_trí ngay trung_tâm , nhân_viên phục_vụ rât dễ_thương và chiều lòng khách_hàng .","['RESTAURANT#PRICES', 'AMBIENCE#GENERAL', 'LOCATION#GENERAL', 'SERVICE#GENERAL']","[{'RESTAURANT#PRICES': 'neutral'}, {'AMBIENCE#GENERAL': 'positive'}, {'LOCATION#GENERAL': 'neutral'}, {'SERVICE#GENERAL': 'positive'}]"
+"mà hạt cafe cũng không có mùi gì luôn , rất mềm , chắc do phơi ngoài gió lâu .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'negative'}]
+hôm vừa_rồi cheese coffee đã mở bán quai vải với giá k combo gồm quai sticker khi mua kèm bill nước bất_kì .,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'neutral'}]
+phải nói là sau mấy chục năm thì cái buffet đã có sự thay_đổi hấp_dẫn hơn cả về món ăn lẫn trang_trí .,"['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"nhân_viên thái_độ phục_vụ bình_thường , không được vui_vẻ lắm nhưng được_cái nhẹ_nhàng .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'neutral'}]
+mình ko cảm_thấy nó ngon như mình đã từng tưởng_tượng ra .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+"quán nằm ở đầu ngô gia cát nếu đi từ hướng điện_biên_phủ rẽ vào , do phía ngoài hơi nhỏ nên hơi khó tìm , mình toàn đi kiếm quán thôi .",['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'negative'}]
+lần thứ ghé quán vì mấy lần trước đi qua đông quá ko chờ được .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'neutral'}]
+"thay_vì bưng lộn thì phải xin_lỗi khách thì bạn ấy lơ đi luôn để bạn nam phục_vụ kia ở lại cũng chẳng biết đầu_đuôi làm_sao , cũng may_mắn cho bạn là gặp bên khách đều dễ_tính chứ gặp người khác là bạn đền p mì rồi .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"phải nói không_gian ở đây rất đẹp , lạ , mang phong_cách khác hẳn với đa_phần các quán ăn nhà_hàng hiện_nay .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"matcha latte hơi dỡ , mùi match không đậm .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'negative'}]
+giá niêu cháo và niêu ếch con hình_như là hay sao đó .,"['FOOD#PRICES', 'FOOD#STYLE&OPTIONS']","[{'FOOD#PRICES': 'neutral'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+"mình uống trà sữa matcha đậu_đỏ , bạn mình uống trà sữa hokkaido .",['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'neutral'}]
+"lần đầu uống cảm_thấy dở , không đặc_biệt .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'negative'}]
+nhưng mùi_vị thì chắc k hợp với mfinh và bạn mình nên thấy k ngon .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'negative'}]
+cũng may_mà salad gà gọi ngoài ngon phết các ông ạ .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"theo mình phở ở những nơi khác bình_dân mà ngon và rẻ vô_cùng , chắc tại cái tiếng hồi xưa thôi còn bây_giờ thì tệ .","['FOOD#PRICES', 'FOOD#QUALITY', 'RESTAURANT#GENERAL']","[{'FOOD#PRICES': 'neutral'}, {'FOOD#QUALITY': 'neutral'}, {'RESTAURANT#GENERAL': 'negative'}]"
+hôm tôi chở vợ_con đi ăn tại đây và vô_cùng thất_vọng so với các lần trước .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'negative'}]
+ngoài cơm niêu sing ra thì món của bên bển cũng rất hot là cháo ếch singgapore .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"bò ngon là một chuyện , còn rưới thêm trứng lên ăn ngon dã_man ý k bát .","['FOOD#STYLE&OPTIONS', 'FOOD#PRICES', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#PRICES': 'neutral'}, {'FOOD#QUALITY': 'positive'}]"
+"uống xong rồi ăn là no luôn , nói chứ trà sữa ở đây thơm ngon và lúc_nào cũng có ly chà bá cho mình kêu luôn .","['DRINKS#STYLE&OPTIONS', 'DRINKS#QUALITY']","[{'DRINKS#STYLE&OPTIONS': 'positive'}, {'DRINKS#QUALITY': 'positive'}]"
+"đồ_ăn ngon , phục_vụ lẹ , lên món liền không để chờ lâu","['FOOD#QUALITY', 'SERVICE#GENERAL']","[{'FOOD#QUALITY': 'positive'}, {'SERVICE#GENERAL': 'positive'}]"
+"nhưng k có tương_ớt nên k thể chấm khoai_tây được huhu phải ăn khoai với muối_tiêu , .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'negative'}]
+ơ wtf mình bỏ tiền ra để được phục_vụ như vả vào mặt thế á .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"cả loại đều là hải_sản , thích cực luôn",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+trà đá và khắn lạnh tính tiền riêng k cái .,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'neutral'}]
+"có món sườn heo nướng ăn vs cơm cũng ngon lắm nè , trứng hến cũng ngon .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'neutral'}, {'FOOD#QUALITY': 'positive'}]"
+"giao hàng nhanh lắm luôn mà bánh còn nóng_hổi nữa , tuy hôm đó trời mưa nhưng ko giao trễ giờ tí nào .","['SERVICE#GENERAL', 'FOOD#QUALITY']","[{'SERVICE#GENERAL': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"vẫn món cũ , olong sữa lớn .",['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'neutral'}]
+không_gian quán đẹp nhưng hơi hẹp .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"chân gà ở đây chỉ có chân gà bóp , không có chân gà nướng nên mình không thich lắm .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+nhân_viên cũng rất vui_vẻ và nhiệt_tình nữa .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+giá_cả thấy ok .,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'positive'}]
+"gu nhạc của quán theo kiểu cập_nhật những bài hot trong bảng xếp_hạng us , uk .",['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'neutral'}]
+"hotdog , thích ăn kem ở đây nữa ạ có kem than tre ăn khá hay_ho mọi người nên thử lần nhé .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"thứ nhất là về đồ_ăn , đồ trên băng_chuyền càng_ngày_càng ít , nhìn đi nhìn lại trên băng chả có gì , toàn phải gọi nhân_viên mang đồ ra riêng cho , mà chờ nhân_viên mang ra thì cũng khá là lâu .","['FOOD#STYLE&OPTIONS', 'SERVICE#GENERAL']","[{'FOOD#STYLE&OPTIONS': 'negative'}, {'SERVICE#GENERAL': 'negative'}]"
+"phục_vụ nhiệt_tình chu_đáo , không_gian thoải_mái .","['SERVICE#GENERAL', 'AMBIENCE#GENERAL']","[{'SERVICE#GENERAL': 'positive'}, {'AMBIENCE#GENERAL': 'positive'}]"
+"suất cơm sen , bánh_canh cá_quả .","['FOOD#STYLE&OPTIONS', 'FOOD#PRICES']","[{'FOOD#STYLE&OPTIONS': 'neutral'}, {'FOOD#PRICES': 'neutral'}]"
+mình rất ấn_tượng với anh quản_lí người ý ở đây .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+quá tệ ở đây không nói về chất_lượng món ăn mà về dịch_vụ,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+khi ăn thì sẽ nhớ và quay lại giống mình thôi vì ngon quá mà hihi .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"giá_cả thì cũng vừa tầm , không_gian hơi ồn_ào .","['RESTAURANT#PRICES', 'AMBIENCE#GENERAL']","[{'RESTAURANT#PRICES': 'neutral'}, {'AMBIENCE#GENERAL': 'negative'}]"
+mình ko bao_giờ ghé lại nữa .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'negative'}]
+chỗ này gần đối_diện bv ctch .,['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'neutral'}]
+cafe và trà cam quế ở đây đều khá okie .,"['DRINKS#QUALITY', 'DRINKS#STYLE&OPTIONS']","[{'DRINKS#QUALITY': 'positive'}, {'DRINKS#STYLE&OPTIONS': 'neutral'}]"
+"mình kêu trà sữa thái , b mình kêu trà sữa đài_loan hay j đó mình quên tên , mà thấy ngon ngon .","['DRINKS#STYLE&OPTIONS', 'DRINKS#QUALITY']","[{'DRINKS#STYLE&OPTIONS': 'neutral'}, {'DRINKS#QUALITY': 'positive'}]"
+hiện_nay quán mới trang_trí lại nhìn sáng và ok hơn .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"gà dạo này ăn vị hơi lạ , ngấy mỡ .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+nếu suy_nghĩ về không_gian thì cũng có_thể quay lại .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"trà xoài kem cheese , cốc to thế kia uống no lắm .",['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'positive'}]
+"mọi người lưu_ý là ngồi bạn càng gần bếp càng tốt , chứ ngồi phía ngoài là thua luôn mình đã từng bị lần , phải chạy vô trong kêu món chứ ngồi ngoài kêu các bạn không nghe .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+như kiểu nấu_ăn từ bí kíp gia_truyền ấy .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"còn cái lava toast mình cũng gọi mà quên chụp , trời_ơi nó dở kinh_khủng , ngọt và ngán không hề có vị trứng muối gì luôn mà .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'negative'}]
+top blade gr bò làm vừa tái rất ngon .,"['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+mình cũng ăn_ở đây được vài lần rồi ăn cũng được nhưng quá mắc .,"['FOOD#QUALITY', 'FOOD#PRICES']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#PRICES': 'negative'}]"
+"có miếng bò cũng to , cà_chua và tôm .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"shop go , lê_thanh nghị .",['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'neutral'}]
+suất như trong ảnh là với cỡ vừa và thêm tiền hộp nếu mua ma ng về . suất cỡ vừa nhưng dc khá nhiều và đầy_đặn .,"['FOOD#STYLE&OPTIONS', 'FOOD#PRICES']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#PRICES': 'neutral'}]"
+mình gọi tô hủ_tiếu bò viên .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+"thức_ăn ngon , bài_trí đẹp_mắt , món ăn kiểu hơi tây .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+mà hôm bữa thấy chỗ này cũng vui_vẻ vô thử nhưng bị thất_vọng quá nhiềuuu .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'negative'}]
+hoá_ra ko mắc mà cũng ko ngon như mình nghĩ .,"['RESTAURANT#PRICES', 'RESTAURANT#GENERAL']","[{'RESTAURANT#PRICES': 'positive'}, {'RESTAURANT#GENERAL': 'neutral'}]"
+toast phô_mai trứng muối hơi cứng nhưng cũng ngon .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"điểm cộng cực lớn là trang_trí quán rất đẹp , đến đây để check in thì không gì bằng .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+quán này cũng rất đáng thử nha mọi người,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"giá em này là , nếu_mà mua cái sẽ dc tặng coi như cái giá à .","['RESTAURANT#MISCELLANEOUS', 'FOOD#PRICES']","[{'RESTAURANT#MISCELLANEOUS': 'positive'}, {'FOOD#PRICES': 'neutral'}]"
+đồ_ăn ra nhanh và nóng .,"['SERVICE#GENERAL', 'FOOD#QUALITY']","[{'SERVICE#GENERAL': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+không bao_giờ tỏ thái_độ khó_chịu với khách cả .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"điều mà đáng trách nhất_là ăn đồ ở đây xong về cả nhóm bị trúng_thực luôn , ốc ko tươi , sạch .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'negative'}]
+tuy giá khá cao nhưng so về chất_lượng thì mình lại thấy thoả_mãn .,"['RESTAURANT#PRICES', 'RESTAURANT#GENERAL']","[{'RESTAURANT#PRICES': 'negative'}, {'RESTAURANT#GENERAL': 'positive'}]"
+"mocha cafe xay nên cũng ngon , ngọt ngọt .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"lại còn có nước_chấm đặc_biệt chua_ngọt , chấm hợp rơ kinh_khủng ạ .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"vị_trí quán teacups mới mở tại số quán thánh , ba_đình .",['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'neutral'}]
+"không_gian dễ_thương , trang_trí đẹp .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+hôm_nay đến quán khá vắng dù đã h chiều rồi nên chụp ảnh thoải_mái mà không bị vướng người gì cả .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'neutral'}]
+"về phần nhân_viên thì nhanh_nhẹn , hoà_đồng , vui_vẻ , lúc_nào cũng cười với khách nên mình rất mến .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+so ra thì bên này ko khí có_vẻ đìu_hiu hơn .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'neutral'}]
+"điểm trừ là không_gian quán nằm trong hẻm nên nhỏ và hẹp , giá hơi chát về phần đồ_ăn .","['AMBIENCE#GENERAL', 'LOCATION#GENERAL', 'FOOD#PRICES']","[{'AMBIENCE#GENERAL': 'negative'}, {'LOCATION#GENERAL': 'negative'}, {'FOOD#PRICES': 'negative'}]"
+"có thêm phần sushi cũng khá ngon , nhiều nhân , ướp thấm vị .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"chú bảo_vệ thân_thiện , anh phục_vụ dễ_thương .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+chương_trình khuyến_mãi phần ăn tối hợp_lí quá_trời luôn vì mình cực thích miếng gà sốt của lotteria .,"['RESTAURANT#MISCELLANEOUS', 'FOOD#QUALITY']","[{'RESTAURANT#MISCELLANEOUS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"chú giữ xe rất cute phô_mai que , thân_thiện còn chọc tụi mình nữa .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"giá_cả như bao quán cafe có thương_hiệu khác , khá đắt .",['DRINKS#PRICES'],[{'DRINKS#PRICES': 'negative'}]
+nếu hầu_bao không nhiều thì chọn top blade là đủ thưởng_thức rồi .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'neutral'}]
+"lần ăn hokkube ribeye rất là ngon , đúng độ tái , sốt thơm .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+thiết_kế nhìn đã mắt luôn .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"với mức giá từ trở lên cho một ly gong cha ngon thì mình nghĩ nó không đắt , rất đáng thử .","['DRINKS#PRICES', 'DRINKS#QUALITY']","[{'DRINKS#PRICES': 'neutral'}, {'DRINKS#QUALITY': 'positive'}]"
+thích nhất gà đắp đất với cá nướng .,"['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+nghe_nói trà sữa hương nhài ngon hơn .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+nói_chung lần đầu đi ăn chỗ tệ đến thế và sẽ không bao_giờ quay lại .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'negative'}]
+"món ăn tô bún_bò của mình khá lớn , có miếng bò miếng heo huyết chả cây và ngon nhất_là_viên chả cua , nước dùng không đậm_đà nhưng vừa ăn .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+lâu rùi k ăn hình_như chất_lượng bị giảm hay sao á .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+đúng p ms nhận dc bánh .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"giá ổn , khá ngon .","['RESTAURANT#PRICES', 'RESTAURANT#GENERAL']","[{'RESTAURANT#PRICES': 'neutral'}, {'RESTAURANT#GENERAL': 'positive'}]"
+hôm bữa thấy mấy bạn review dở với_lại k vệ_sinh gì đó nên cũng ngại đến ăn .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'negative'}]
+"công_nhận là cũng nhiêu gà , ăn thấy vị cũng ổn phết nhưng_mà k có mùi_vị nc tương j hết .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+điều đặc_biệt ở quán bún này là khi kêu bún ra thì sẽ có chén cơm nguội đi kèm để bỏ vào ăn chung với bún .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+phục_vụ đồ cũng ổn .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'neutral'}]
+shipper của delivery now đứng chờ nhận hàng mà nhìn khiếp luôn .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+món ăn hết nhân_viên cũng ko châm thêm .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+à combo không có nước nên mình cũng phải gọi nước_ngoài nhưng cũng cho đồ uống ở đây điểm vì nước_hoa quả rất chất_lượng .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"thường thì có cà , mì căng , củ_cải , bí .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+hình_như giờ này dành riêng cho bàn đặt trước hay sao đó nên quán khá yên_tĩnh .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"vào ăn thì kiêu đồ_ăn lên chậm , rất chậm , lên không đúng đồ_ăn .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+chua_ngọt vừa_phải nữa .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"quán ưu_đãi liên_tục , nhiều coupon tặng khách nên mình càng ghé quán thường_xuyên hơn .",['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+à nhưng lần này ăn thấy món này bình_thường .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+ăn với mì tôm thì tuyệt_vời nhất .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"quán dễ tìm , không_gian vintage cổ_kính , trang_trí nhìn đẹp thiệt đẹp luôn , hợp chụp mấy ảnh deep deep nè .","['LOCATION#GENERAL', 'AMBIENCE#GENERAL']","[{'LOCATION#GENERAL': 'positive'}, {'AMBIENCE#GENERAL': 'positive'}]"
+"món nước theo mình thì hơi ngọt gắt , váng sữa mặn mặn béo béo uống chung hơi ngán vì trà_ngọt , trà đậm vị hơi tí thì ngon .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'neutral'}]
+"không_gian sạch_sẽ , thoáng_đãng , món ăn khá ngon .","['AMBIENCE#GENERAL', 'FOOD#QUALITY']","[{'AMBIENCE#GENERAL': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"các món mà mình thích ở đây là trà sữa tá lả , yaourt thái , bánh gạo lắc xí muội , bánh gạo lắc phô_mai .","['FOOD#STYLE&OPTIONS', 'DRINKS#STYLE&OPTIONS']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'DRINKS#STYLE&OPTIONS': 'positive'}]"
+về món ăn thì ngon rồi nhưng cần chỉnh_sửa cách phục_vụ ở đây,"['FOOD#QUALITY', 'SERVICE#GENERAL']","[{'FOOD#QUALITY': 'positive'}, {'SERVICE#GENERAL': 'negative'}]"
+"các nguyên_liệu cho sinh_tố và yaua trái_cây đều tươi mới , món yaua trái_cây có hơi bị nhiều các loại quả kèm theo trong ly luôn d .","['DRINKS#STYLE&OPTIONS', 'DRINKS#QUALITY']","[{'DRINKS#STYLE&OPTIONS': 'positive'}, {'DRINKS#QUALITY': 'positive'}]"
+"mực ngon , giòn , chấm với sốt béo béo , có cả phần rau trộn ăn kèm nữa .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"kem cheese cũng ngon , đặc vừa_phải không bị lỏng quá , hơi mặn quá nhưng hoà vs trà lại rất ok .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+quan_trọng nữa là pha dc đúng vs định_lượng mình chọn chứ không phải để không cho vui .,['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'positive'}]
+"mình khá thích trang_trí của quán , những bức tranh đen_trắng gợi nhớ cố_đô , bát_đĩa men gắn nghệ_thuật cảm_giác rất gần_gũi .","['AMBIENCE#GENERAL', 'RESTAURANT#MISCELLANEOUS']","[{'AMBIENCE#GENERAL': 'positive'}, {'RESTAURANT#MISCELLANEOUS': 'positive'}]"
+chính_xác là trà xanh gong cha trân_châu trắng double milk foam .,['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'neutral'}]
+"mọi người khen sốt bbq ngon nhưng mình thấy ko hợp tí nào , sốt tiêu ăn ngon hơn , phục_vụ vẫn ổn , giữ xe miễn_phí .","['FOOD#QUALITY', 'RESTAURANT#MISCELLANEOUS', 'SERVICE#GENERAL']","[{'FOOD#QUALITY': 'neutral'}, {'RESTAURANT#MISCELLANEOUS': 'positive'}, {'SERVICE#GENERAL': 'neutral'}]"
+"view nhìn ra hàm nghi đẹp , ở quận mà giá nước uống vậy là phù_hợp rồi .","['LOCATION#GENERAL', 'DRINKS#PRICES']","[{'LOCATION#GENERAL': 'positive'}, {'DRINKS#PRICES': 'positive'}]"
+"bò mềm và dày , ăn medium rất ngọt thịt .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+mình ghé mua phần thập_cẩm .,['FOOD#PRICES'],[{'FOOD#PRICES': 'neutral'}]
+"không_gian bên hàm nghi cũng rộng , đẹp , mang kiểu vintage , thích là có các gác lên lầu nhìn siêu đẹp .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"cộng thứ hai ở món cá giòn_tan , k hề tanh ý .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"tối chủ_nhật , đông , xếp_hàng p mới mua được ly trà sữa .","['SERVICE#GENERAL', 'RESTAURANT#GENERAL']","[{'SERVICE#GENERAL': 'negative'}, {'RESTAURANT#GENERAL': 'neutral'}]"
+nước_lèo cũng ổn nhưng hơi ngọt .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+"matcha đậu_đỏ không ngon , hạt đậu_đỏ dỡ .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'negative'}]
+mà lẩu này thì nên ăn với ba chỉ bò mới cảm_nhận dc vị béo béo của nó .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"mấy năm rồi , hôm_nay công_ty ăn tất_niên nên order chung với mọi người , thức uống cơ_bản nhất greentea milkfoam với đường .",['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'neutral'}]
+"trà lài xanh cũng ok , đậm_đà lắm , mà bạn nào ko quen trà đậm thì uống sẽ dễ thấy đắng .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+hạn_chế của nhà_hàng là gọi thêm rau nhưng k có,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'negative'}]
+"nước nước_ngọt lon , có chai lớn .",['DRINKS#PRICES'],[{'DRINKS#PRICES': 'neutral'}]
+"giá_cả ở đây cũng phải_chăng , đứa mình ăn no căng rún , đến lúc thanh_toán còn được chiết_khấu nữa","['RESTAURANT#PRICES', 'RESTAURANT#MISCELLANEOUS']","[{'RESTAURANT#PRICES': 'positive'}, {'RESTAURANT#MISCELLANEOUS': 'positive'}]"
+giá_cả giá ở mức cao .,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'negative'}]
+không_gian thì hơi chật xíu nhưng đậm chất cổ_xưa tha_hồ sống ảo .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'neutral'}]
+"chất_lượng đa_dạng món lắm nha , tuỳ món mà ngon dở khác nhau , cái này chắc do khẩu_vị mỗi người , có vài món khá lạ cũng hay_hay .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'neutral'}]"
+"sốt ya ua cũng rất ngon , rất hợp với salad .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"vì quán khá đông nên đặt trước để được quán chuẩn_bị cho tốt nhất , đỡ mất_công tới quán mà đông quá .",['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'neutral'}]
+không mang đồ_dùng cho khách mà đợi nhắc hơn lần .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"đứa hết , cũng khá no , nhưng cảm_giác ko ngon như lúc đầu .","['RESTAURANT#PRICES', 'RESTAURANT#GENERAL']","[{'RESTAURANT#PRICES': 'neutral'}, {'RESTAURANT#GENERAL': 'neutral'}]"
+"nhược_điểm duy_nhất là không_gian quán bị ù nên mở nhạc to nghe khá khó_chịu , phải chọn bài kỹ , chưa kể lúc cái máy xay chạy đúng là cực_hình luôn .","['AMBIENCE#GENERAL', 'RESTAURANT#MISCELLANEOUS']","[{'AMBIENCE#GENERAL': 'negative'}, {'RESTAURANT#MISCELLANEOUS': 'negative'}]"
+trà ở đây thơm hihi thích .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+tệ từ cách phục_vụ đến chất_lượng .,"['SERVICE#GENERAL', 'RESTAURANT#GENERAL']","[{'SERVICE#GENERAL': 'negative'}, {'RESTAURANT#GENERAL': 'negative'}]"
+"ở đây còn có bún thịt nướng và nem_lụi nữa , nhưng mình đến đây chỉ ăn bún riêu cua thôi , còn nem_lụi và bún thịt nướng thì không ngon cho lắm .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'neutral'}]"
+"đồ uống thì ngon quá_trời , em bị mê món trà sữa bánh flan đá xay , bánh toast thì giòn , thơmm quá_trời .","['DRINKS#QUALITY', 'FOOD#QUALITY']","[{'DRINKS#QUALITY': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"nói_chung mình thấy cũng bình_thường à , không có gì đặc_biệt lắm .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+"ly vừa tầm thôi là , nói_chung tuần uống ly gong cha , còn lại các ngày khác uống trà đá đường dằn_túi .",['DRINKS#PRICES'],[{'DRINKS#PRICES': 'neutral'}]
+"không quá ngọt , vị trà sữa thơm thơm béo béo .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+nói là quán thì to quá chứ thực_ra đây chỉ là một cái xe đẩy thôi .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'neutral'}]
+"cabonara fettuccine kết món này quá đi mất , lớp sốt kem béo nhiều cực_kì nhưng lại không bị ngấy , mình thì lại cuồng mì dẹt nữa .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+khoai_tây bị mềm nên mình ăn chưa tới nửa đã bỏ .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'negative'}]
+ăn thì cũng được nhưng không_gian và cơ_sở vật_chất quá kém .,"['AMBIENCE#GENERAL', 'RESTAURANT#MISCELLANEOUS', 'FOOD#QUALITY']","[{'AMBIENCE#GENERAL': 'negative'}, {'RESTAURANT#MISCELLANEOUS': 'negative'}, {'FOOD#QUALITY': 'positive'}]"
+"mình ghé quán này ăn được lần , nhìn_chung khá hài_lòng .",['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+gà lên mâm ngon hơn an nam nhưng xôi thì không hấp_dẫn bằng .,"['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+"tuy_nhiên nước_chấm được đóng_gói kiểu chuyên_nghiệp hơn là giống như mấy gói gia_vị trong mì gói á , có răng_cưa để xé ra .",['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+trân_châu cũng được nhân_viên cho khá nhiều .,['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'positive'}]
+free khăn giấy free giữ xe nha .,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+"còn trà thì cô e uống latte , anh uống matcha vs expresso còn mình thì chọn trà chanh leo .",['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'neutral'}]
+túi bỏng nhưng chất_lượng quá ổn nên chấp_nhận .,"['FOOD#PRICES', 'FOOD#QUALITY']","[{'FOOD#PRICES': 'neutral'}, {'FOOD#QUALITY': 'positive'}]"
+"quán đông cực_kì nhưng mấy anh_chị nhân_viên vẫn phục_vụ rất nhiệt_tình , vui_vẻ , không rối cũng như không khó_chịu khi khách xin thêm nước lẩu hoặc ly đá .","['SERVICE#GENERAL', 'RESTAURANT#GENERAL']","[{'SERVICE#GENERAL': 'positive'}, {'RESTAURANT#GENERAL': 'neutral'}]"
+"cà_ri ở đây vị đậm_đà thơm và rất ngon , bạn nào ko ăn cay được thì có_thể hơi buồn vì món cà_ri này khá là cay .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+được tặng vài cái voucher ở đây nên mới biết đến nhà_hàng này .,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+sốt tiêu đen và sốt bbq ăn cũng ổn lắm .,"['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+"bếp làm quá chậm , một món ăn lên cả tiếng , mất thời_gian .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"phần bò hokubee này được quán miêu_tả mềm , ngon nên tụi mình order thử , phần g này bày lên có hình trái_tim , nhìn cũng khá lãng_mạn .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"mà nhân_viên vui_vẻ , nhiệt_tình nữa like .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"nhân_viên tập_trung làm đồ_ăn , không niềm_nở với khách lắm và ăn_nói có chút chợ_búa .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"quán nằm trong hẻm cũng rộng , không_gian rộng_rãi .","['LOCATION#GENERAL', 'AMBIENCE#GENERAL']","[{'LOCATION#GENERAL': 'neutral'}, {'AMBIENCE#GENERAL': 'positive'}]"
+"phần vỏ bánh giòn , bacon và gia_vị bên trong cùng với thit bò hoà_quyện rất ngon .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"circle k bờ hồ , siêu đông luôn đáy ạ , nhất_là hôm nào cấm đường trên phố đi bộ .",['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"mình order trà_đào , bạn mình thì uống trà sữa .",['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'neutral'}]
+đúng_ra là ngon nếu nó k quá nhạt .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+"bánh bày trên dĩa oke đẹp_mắt , vị không rõ vị gì hết , vỏ xốp cũng chưa đạt , nhân thì càng khó hiểu v .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'negative'}, {'FOOD#QUALITY': 'negative'}]"
+hy_vọng chủ quán xem_xét lại việc phục_vụ bánh này cho khách vì nó quá dở và mắc so với chất_lượng .,"['FOOD#QUALITY', 'FOOD#PRICES']","[{'FOOD#QUALITY': 'negative'}, {'FOOD#PRICES': 'negative'}]"
+"quán theo style cổ_điển châu_âu tinh_tế , tao_nhã nên góc nào cũng đẹp , nhâm_nhi một_chút trà một_chút bánh trong những tiếng nhạc không lời thật mà lãng_mạn mà .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"salad cá_ngừ và salad gà , phàn salad gà siêu rẻ ma ngon nhất .","['FOOD#QUALITY', 'FOOD#PRICES']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#PRICES': 'positive'}]"
+"rip eye bên ngoài giòn , màu đẹp , bên trong mềm , ngọt , độ chín vừa_ý .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"quán đông khách nhưng phục_vụ khá nhanh , có_điều hơi đau_đầu điếc tai vì phục_vụ toàn la to để gọi món .","['SERVICE#GENERAL', 'RESTAURANT#GENERAL']","[{'SERVICE#GENERAL': 'neutral'}, {'RESTAURANT#GENERAL': 'neutral'}]"
+"ngấm sốt nên mềm_nhũn , không còn mùi_vị đặc_trưng của bacon , cũng không phối_hợp gì với steak .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'negative'}]
+bò nướng sốt thổ ăn tạm đc sốt hơi ngọt và ko đặc_sắc lắm cái này mẹ mình kêu mẹ khen ngon nhưng mình ko thích sốt thổ .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+"chờ món cũng không đến mức lâu , có_thể do món mình order khá đơn_giản .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'neutral'}]
+"mùi_vị đậm_đà lắm , ăn lúc mới bưng ra , còn nóng_ăn càng tuyệt .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"hôm đó quán đông , mình đc cho lên lầu ngồi , vắng hơn , ít khói hơn phía dưới lầu .",['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'neutral'}]
+"nhân_viên lễ_phép nhưng không nhiệt_tình lắm , pha_chế hơi lâu .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'neutral'}]
+"trà xanh milk floam ly nhiều ghê , chất_lượng nữa .","['DRINKS#QUALITY', 'DRINKS#STYLE&OPTIONS']","[{'DRINKS#QUALITY': 'positive'}, {'DRINKS#STYLE&OPTIONS': 'positive'}]"
+nằm ngay đường nguyen hue nên rất dễ tìm .,['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'positive'}]
+"thịt vừa đủ dai , bên trong còn hơi đỏ hồng , mùi thịt bò vẫn còn đậm ăn với sốt tiêu quá hợp .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+chả hiểu sao tính suất bún thêm có tí với giá nghìntđồng .,"['FOOD#PRICES', 'FOOD#STYLE&OPTIONS']","[{'FOOD#PRICES': 'negative'}, {'FOOD#STYLE&OPTIONS': 'negative'}]"
+xào và nêm rất vừa_miệng nhé .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+còn bánh trứng nướng kiểu pháp thì phía trên là lớp caramel bên dưới là flan trứng .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+bạn nhân_viên thì gào_thét gọi số .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"nhưng_mà chiều tới đông người đến ăn thì quán hơi nóng , dù không_gian mở ra đường có_vẻ thoáng nhưng vẫn có cảm_giác ngột_ngạt sao đó .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'negative'}]
+mua từ đợt khuyến_mãi mua tặng hôm mà giờ mới viết review .,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+"nhưng khi ăn những món ăn_ở đây mình thấy rất ok vị ngon , sạch , vệ_sinh và nhất_là ko phẩm màu .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+quán có ở hầu_hết các siêu_thị nên rất dễ tìm .,['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'positive'}]
+"mùi_vị ngon_lành , thịt mềm , nhiệt_độ hơi lệch chút , thịt hơi chín quá , sốt ngon .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+"nhân_dịp , cả team mình kéo nhau đi ăn đặt bàn qua tablenow vì đang có mức ưu_đãi lẩu người chỉ có mà thực_tế giá của nó là .","['RESTAURANT#PRICES', 'RESTAURANT#MISCELLANEOUS']","[{'RESTAURANT#PRICES': 'neutral'}, {'RESTAURANT#MISCELLANEOUS': 'positive'}]"
+đến đây mọi người sẽ bắt_gặp khá nhiều các loại kem .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+nước thì có mấy loại khá đặc_biệt như coca nhật mình chưa thử .,['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'positive'}]
+"quán có không_gian rộng_rãi , có chỗ để xe_máy và ô_tô thoải_mái .","['AMBIENCE#GENERAL', 'RESTAURANT#MISCELLANEOUS']","[{'AMBIENCE#GENERAL': 'positive'}, {'RESTAURANT#MISCELLANEOUS': 'positive'}]"
+"quán có trệt và lầu mà thiệt là cái lầu chưa bao_giờ mình đi mà thấy mở , chắc ở dưới phải full khách thì mới mở trên đó , wc trên lầu nên đi lên tối_om cũng hơi creepy .","['RESTAURANT#GENERAL', 'RESTAURANT#MISCELLANEOUS']","[{'RESTAURANT#GENERAL': 'neutral'}, {'RESTAURANT#MISCELLANEOUS': 'negative'}]"
+mình gọi trà sữa trà xanh với trà sữa trân_châu thêm thạch nâu .,['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'neutral'}]
+"mình không ăn được sashimi nên không biết vị , nhưng nhìn món rất tươi .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'neutral'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+bánh pancake vỏ vàng thì bình_thường không có gì đặc_sắc .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+"menu quán chuyên đồ âu , nhìn cái tên quán cũng biết món vơ đét của quán là beefsteak rồi , ngoài_ra còn mấy món ăn kèm như salad , mì ý .","['FOOD#STYLE&OPTIONS', 'RESTAURANT#GENERAL']","[{'FOOD#STYLE&OPTIONS': 'neutral'}, {'RESTAURANT#GENERAL': 'positive'}]"
+"giá_cả không rẻ cũng không mắc , tạm chấp_nhận được vì có hải_sản và hàu .","['RESTAURANT#PRICES', 'FOOD#STYLE&OPTIONS']","[{'RESTAURANT#PRICES': 'neutral'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+hến xúc nếu không bằm hến thì sẽ ngon hơn nhiều .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'neutral'}]
+"từ xưa giờ mình không biết ăn dê , mà nhóm bạn rủ qa phải chiều lòng ăn_theo , khen bảo chỗ này ngon lắm .",['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"không_gian sáng_sủa , rộng_rãi , có_điều các bàn san_sát nhau nên nhiều khi hơi ồn .","['AMBIENCE#GENERAL', 'RESTAURANT#MISCELLANEOUS']","[{'AMBIENCE#GENERAL': 'neutral'}, {'RESTAURANT#MISCELLANEOUS': 'negative'}]"
+quán rất đông và mình chấp_nhận đợi gần ph nhưng mình kh thích sự không theo thứ_tự .,"['RESTAURANT#GENERAL', 'SERVICE#GENERAL']","[{'RESTAURANT#GENERAL': 'positive'}, {'SERVICE#GENERAL': 'negative'}]"
+kêu thú linh khìa mà dai_nhách khô queo .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'negative'}]
+"cơm gà xối mỡ hay gà_gô ti đều được làm chín , giòn_rụm thấm gia_vị trong thịt gà .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'neutral'}, {'FOOD#QUALITY': 'positive'}]"
+"nhớ ra sớm để còn rau nhá , rau_sống nhưng thái nhỏ , sạch_sẽ ăn vừa xinh .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+súp ăn lạ và thơm .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"socola , dưa lưới vs matcha .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+"về pizza thì mình chấm ở mức khá , k quá xuất_sắc nhưng cũng k hề tệ .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"hôm_nay giảm_giá nên thấy giá ok , lại còn giảm ship .",['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+"giá trà sữa thì cũng thuộc dạng cao , nhưng uống ngon , mình thích nhất là uống với trân_châu trắng hoặc có váng bọt .","['DRINKS#PRICES', 'DRINKS#QUALITY', 'DRINKS#STYLE&OPTIONS']","[{'DRINKS#PRICES': 'negative'}, {'DRINKS#QUALITY': 'positive'}, {'DRINKS#STYLE&OPTIONS': 'neutral'}]"
+thực_đơn đa_dạng phong_phú hihi .,"['FOOD#STYLE&OPTIONS', 'DRINKS#STYLE&OPTIONS']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'DRINKS#STYLE&OPTIONS': 'positive'}]"
+"duy chỉ có mì ý là không ngon , mì chín quá , bở , sốt không thấm_tháp .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'negative'}]
+quán có tầng khá rộng được trang_trí theo phong_cách mĩ cao_bồi .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+"chicken salad rolls dễ ăn nè , ăn chug nước_chấm ngon .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+"nằm trên mặt đường lê_hồng phong , cạnh khách_sạn công_chúa , khá dễ tìm .",['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'positive'}]
+đồ_ăn vẫn là cơm hấp nấm gà nướng sốt .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+"chả cá ăn được , lòng cá dai giòn , bún tươi , rau hành lá đầy_đủ .","['FOOD#STYLE&OPTIONS', 'FOOD#QUALITY']","[{'FOOD#STYLE&OPTIONS': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+thứ hai vị ngọt tự_nhiên của mực làm_bạn không_thể quên được khi kết_hợp với chúc tương_ớt chính_hiệu cay cay the the tý làm chúng_ta không cưỡng lại được phải không nào .,"['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+không_gian quán rộng_rãi có chỗ check in đẹp .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+chờ đc tới ly trà sữa mình uống thì ôi trân_châu dở .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'negative'}]
+chỉ hơi buồn là thường bị lẫn order cho_dù quán vắng hay đông .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+quán nằm ngay hẻm tô hiến thành khá dễ tìm nhưng để xe phải gửi đằng trc một khúc nên bạn nào mới vô lần đầu vô để xe nhớ để_ý chỗ nào có bảng gửi xe bún thịt nướng thì tấp vào .,"['RESTAURANT#MISCELLANEOUS', 'LOCATION#GENERAL']","[{'RESTAURANT#MISCELLANEOUS': 'neutral'}, {'LOCATION#GENERAL': 'positive'}]"
+có món mực calamari và súp gạch cua ko ngon .,"['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'negative'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+"nhà_hàng rất sạch_sẽ , không_gian ấm_cúng , nằm trong phòng kín , tách_biệt với mặt_tiền xe_cộ đông_đúc bên ngoài .","['RESTAURANT#GENERAL', 'AMBIENCE#GENERAL']","[{'RESTAURANT#GENERAL': 'positive'}, {'AMBIENCE#GENERAL': 'positive'}]"
+giá tầm ly .,['DRINKS#PRICES'],[{'DRINKS#PRICES': 'neutral'}]
+menu quán khá nhiều các món lạ và hấp_dẫn .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"heo giả_cầy đậm_đà , thơm , chấm với bánh_mì ăn ngon .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'positive'}]"
+"béo , mặn nhẹ , thơm mà k gây ngắn nên mình ghiền lắm .",['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"tráng_miệng mình gọi chè , đặc_biệt có món chè khúc bạch ở đây mình rất thích .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+giá hơn k ng thui .,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'positive'}]
+"bò cực_kì ngon , mềm lắm luôn , mình là mình thích ăn thịt có lẫn mỡ mỡ chớ nạc không thì hơi ngán nên rib eye là quá phù_hợp , ngoại_trừ việc thỉnh_thoảng hơi khó cắt phần mỡ viền .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'negative'}]"
+cả hai lần đêu rất hài_lòng với món ăn và chất_lượng phục_vụ .,"['SERVICE#GENERAL', 'FOOD#QUALITY']","[{'SERVICE#GENERAL': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+có_điều đông khách nhân_viên gọi nhau chí_choé hết tầng này đến tầng khác .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'negative'}]
+chỗ đậu xe cách tiệm một_tí nên nếu lần đầu chắc phải chạy xe quay lại để giữ xe .,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'neutral'}]
+"còn cái là phô_mai , húng tây , cà_tím nướng .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+"không_gian kiểu cũ , cũng hay_hay .",['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+ngoài_ra bên cheese đang có chương_trình tích điểm nhận quai vải sticker nữa .,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'positive'}]
+trà sữa taro khoai_môn mình đánh_giá rất cao vì khá ngon nha .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"món ăn rất tươi , nhất_là mấy món sống chấm mù_tạt thì ngon khỏi bàn .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+"ăn xong , nghỉ_ngơi và nói_chuyện , tấm_tắc khen đồ ngon với các bạn phục_vụ một lúc là có bánh mang ra .","['SERVICE#GENERAL', 'FOOD#QUALITY']","[{'SERVICE#GENERAL': 'positive'}, {'FOOD#QUALITY': 'positive'}]"
+"chỗ gửi xe_hơi xa thôi , cáv bạn đi thẳng ra sau quán là tới chỗ gửi xe r đó .",['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'negative'}]
+nhân_viên là nam và rất thân_thiện .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"mình chưa thử các món ăn mặn ở đây , nhưng trông thiệt là hấp_dẫn .",['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+"nhân_viên dễ_thương , mình yêu_cầu không lấy miếng ức và lấy cho mình nhiều sốt đều được đáp_ứng hết .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+nếu chỉ ăn thôi chắc khoảng người thoi .,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'neutral'}]
+tổng chi_phí .,['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'neutral'}]
+caesar salad cũng ngon .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+thạch mềm mình không thích lắm .,['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'neutral'}]
+"mình nghĩ những_ai chưa từng ăn chả cá nên đến đây , ngon và rất dễ ăn",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'positive'}]
+món mình thường_xuyên gọi là sâm dứa sữa đá bào topping đầy_đủ .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'neutral'}]
+mỗi_tội nước lẩu kim chi thì lại cay quá phải chế thêm nước nấm mới ăn đc .,['FOOD#QUALITY'],[{'FOOD#QUALITY': 'negative'}]
+"sân để xe rộng_rãi , nhân_viên giữ xe nhiệt_tình , làm_việc trách_nhiệm và nghiêm_túc .","['SERVICE#GENERAL', 'AMBIENCE#GENERAL']","[{'SERVICE#GENERAL': 'positive'}, {'AMBIENCE#GENERAL': 'positive'}]"
+"milk foam ngày_càng ít , mình tưởng là trên ly có vạch ép nổi là để định_mức lượng milk foam , những lần đầu mình uống , milk foam đều được đổ full đến vạch .",['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'negative'}]
+quán rộng đẹp phong_cách theo kiểu vintage chụp hình lên xinh lắm .,['AMBIENCE#GENERAL'],[{'AMBIENCE#GENERAL': 'positive'}]
+trong ảnh là hai món green tea frappuccino k và caramel frappuccino k .,"['DRINKS#PRICES', 'DRINKS#STYLE&OPTIONS']","[{'DRINKS#PRICES': 'neutral'}, {'DRINKS#STYLE&OPTIONS': 'neutral'}]"
+"mình mua ly gồm trà sữa trà xanh thêm thạch trái_cây , trà đen milkfoam , trà sữa milkfoam , trà sữa hokkaido , tất_cả đều size m với đường đá .",['DRINKS#STYLE&OPTIONS'],[{'DRINKS#STYLE&OPTIONS': 'neutral'}]
+"tuy_vậy chờ đồ hơi lâu , tầm phút mới có đồ_ăn .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+mất . đ để mua lấy thức uống đựng trong bao nilong bị rách và sau đó ó đổ .,"['DRINKS#PRICES', 'RESTAURANT#MISCELLANEOUS']","[{'DRINKS#PRICES': 'neutral'}, {'RESTAURANT#MISCELLANEOUS': 'negative'}]"
+"phục_vụ hơi kỳ vì bánh mình chưa ăn xong , còn một_hai miếng trên dĩa nhưng bạn đó cứ lại hỏi ăn xong chưa để dọn , làm tụi mình cũng kiểu bị kỳ kỳ xong bảo bạn đó dọn luôn cho_rồi .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+lê_la trong taka khát nước thì phúc long cũng không phải là lựa_chọn tệ .,['RESTAURANT#GENERAL'],[{'RESTAURANT#GENERAL': 'positive'}]
+"vừa_rồi đứa đi ăn bò ở đây , tổng thiệt_hại hết .",['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'neutral'}]
+quán này gần nhà mình ăn suốt .,['LOCATION#GENERAL'],[{'LOCATION#GENERAL': 'positive'}]
+"súp kem ngon , sốt salad ngon .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+"bò có độ dai vừa_phải , khá mềm , mình ăn sốt tiêu thấy ổn nhg bạn mình nói sốt vang đỏ ko ngon lắm .","['FOOD#QUALITY', 'FOOD#STYLE&OPTIONS']","[{'FOOD#QUALITY': 'positive'}, {'FOOD#STYLE&OPTIONS': 'neutral'}]"
+mình thíc ít fomai nhiều trứng bạn í cũng cho đúng ý_nguyện hehe 🤤 .,['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
+"quán có cho đăng_kí thẻ thành_viên free để lần sau ăn được giảm_giá nữa , mọi người nhớ hỏi thử nha .",['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'neutral'}]
+"🥛mình gọi trà ngọc_lan kem mặn thêm trân_châu trắng , tên mĩ_miều mà nhận được cốc trà chát lắm , bonus thêm kem mặn đặc và bứ , hong ngon huhuu .","['DRINKS#STYLE&OPTIONS', 'DRINKS#QUALITY']","[{'DRINKS#STYLE&OPTIONS': 'negative'}, {'DRINKS#QUALITY': 'negative'}]"
+"giá ổn , không mắc , không rẻ .",['RESTAURANT#PRICES'],[{'RESTAURANT#PRICES': 'neutral'}]
+"đồ uống đa_dạng , phong_phú , mình gọi thử trà sữa thái và signature fresh fruits ice blended uống cũng tạm ổn , nhưng so với các chỗ khác thì bình_thường .","['DRINKS#STYLE&OPTIONS', 'DRINKS#QUALITY']","[{'DRINKS#STYLE&OPTIONS': 'positive'}, {'DRINKS#QUALITY': 'neutral'}]"
+"ts ngon , mình thích thạch màu trắng í , vì hết trân_châu nên bạn nhvien đề_nghị mình thử .","['DRINKS#QUALITY', 'DRINKS#STYLE&OPTIONS']","[{'DRINKS#QUALITY': 'positive'}, {'DRINKS#STYLE&OPTIONS': 'neutral'}]"
+"nhân_viên phục_vụ nhanh_nhẹn và vui_vẻ , có ban_công ngồi mát_mẻ và thoải_mái .","['AMBIENCE#GENERAL', 'SERVICE#GENERAL']","[{'AMBIENCE#GENERAL': 'positive'}, {'SERVICE#GENERAL': 'positive'}]"
+"vì ăn dỡ dang nên đành ngồi đợi mấy món sau chứ thật_ra chất_lượng giảm quá nhiều , ăn xong cho_rồi .",['FOOD#QUALITY'],[{'FOOD#QUALITY': 'negative'}]
+có đều nếu đi vào cuối tuần khá đông và đợi lâu mới có chỗ ngồi và đồ_ăn .,"['RESTAURANT#GENERAL', 'SERVICE#GENERAL']","[{'RESTAURANT#GENERAL': 'neutral'}, {'SERVICE#GENERAL': 'negative'}]"
+"order món quên trước quên sau , chờ hoài ko thấy đồ_ăn mình hỏi thì xin_lỗi lần , mệt .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'negative'}]
+"nhà_hàng chuyên về hải_sản tươi_sống , món hải_sản nào cũng tươi_roi_rói .","['FOOD#QUALITY', 'RESTAURANT#GENERAL']","[{'FOOD#QUALITY': 'positive'}, {'RESTAURANT#GENERAL': 'positive'}]"
+màu_sắc bánh cũng bắt_mắt .,['FOOD#STYLE&OPTIONS'],[{'FOOD#STYLE&OPTIONS': 'positive'}]
+đôi_khi phải gửi xe ở ngoài hẻm hoặc wa cv gửi .,['RESTAURANT#MISCELLANEOUS'],[{'RESTAURANT#MISCELLANEOUS': 'neutral'}]
+"ngoài_ra mình có gọi nước chanh leo , uống thơm và ổn .",['DRINKS#QUALITY'],[{'DRINKS#QUALITY': 'positive'}]
+"đến quán nhân_dịp quán tặng nước free , nằm trên đường an_dương_vương , mặt lộ lớn .","['LOCATION#GENERAL', 'RESTAURANT#MISCELLANEOUS']","[{'LOCATION#GENERAL': 'positive'}, {'RESTAURANT#MISCELLANEOUS': 'positive'}]"
+"nhân_viên ở đây rất nhiệt_tình , lịch_sự .",['SERVICE#GENERAL'],[{'SERVICE#GENERAL': 'positive'}]
